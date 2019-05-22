@@ -1,0 +1,40 @@
+<!doctype html>
+<head>
+	<meta charset="UTF-8"> 
+</head>
+<body>
+
+<div style = "margin-bottom: 20px;">
+	Du kan se OS2KLE change log ved at klikke på "browse" og åbne filen "change.json".
+</div>
+<div>
+	<input type = "file" onchange = "openFile(event)">
+</div>
+
+<div id = "output" style = "margin-top: 10px;"></div>
+
+<script>
+	var openFile = function(event) {
+		var input = event.target;
+
+		var reader = new FileReader();
+
+		reader.onload = function(){
+			var text = reader.result;
+			var output = document.getElementById('output');
+
+			text = text.replace(/ *\{\n/g, '<div style = "height: 5px;"></div>');
+			text = text.replace(/ *\},\n/g, '<div style = "height: 5px;"></div>');
+			text = text.replace(/ *\}\n/g, '');
+			text = text.replace(/\n/g, '<br>');
+			text = text.replace(/  /g, '&nbsp; ');
+
+			output.innerHTML = text;
+		};
+
+		reader.readAsText(input.files[0]);
+	};
+</script>
+
+</body>
+</html>
