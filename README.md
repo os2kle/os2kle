@@ -1,6 +1,6 @@
 # OS2KLE
 
-OS2KLE is developed by Taxon ApS (http://taxon.dk) for OS2 - Offentligt digitaliseringsfællesskab (http://os2.eu).
+OS2KLE is developed by Taxon ApS (https://taxon.dk) for OS2 - Offentligt digitaliseringsfællesskab (https://os2.eu).
 
 Copyright (c) 2013-2019, OS2 - Offentligt digitaliseringsfællesskab.
 
