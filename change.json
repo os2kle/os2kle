@@ -1,11 +1,23 @@
 {
-   "00.01.00":
+   "00.05.10":
    {
       "terms":
       {
-         "regnskab for anlægsbevilling":
+         "sponsor":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "sponsorat":
+         {
+            "term":"Only in 3.10"
+         },
+         "sponsoraftale":
+         {
+            "term":"Only in 3.10"
+         },
+         "præmie":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -15,155 +27,222 @@
       {
          "whistleblowerordning":
          {
-            "term":"Only in 3.9"
+            "settings":
+            {
+               "suffix":"3.10: 'en|er|erne'. 3.9: 'en||er|erne'"
+            }
          }
       }
    },
-   "00.16.10":
+   "00.14.00":
    {
-      "class":"Only in 3.9"
+      "terms":
+      {
+         "chatbot":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "00.22.04":
+   {
+      "terms":
+      {
+         "opgaveudvalg":
+         {
+            "term":"Only in 3.10"
+         },
+         "§17 stk. 4 udvalg":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "00.30.08":
+   {
+      "terms":
+      {
+         "indefrosne midler":
+         {
+            "term":"Only in 3.10"
+         },
+         "frigivelse til anlægsinvesteringer":
+         {
+            "term":"Only in 3.10"
+         },
+         "overførsel til anlægsinvesteringer":
+         {
+            "term":"Only in 3.10"
+         }
+      }
    },
    "00.30.10":
    {
       "terms":
       {
-         "indberetning om kommunens el- og varmeforsyningsvirksomhed":
+         "overførselssag":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "kommune":
+         "frigivelse af indefrosne overførsler":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "00.32.28":
+   "00.30.12":
    {
       "terms":
       {
-         "nedsættelse af færgetakster for biler og passagerer til og fra øer":
+         "indefrosne overførsler":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "dagtilbuddets budget":
+         {
+            "term":"Only in 3.10"
+         },
+         "børnehavens budget":
+         {
+            "term":"Only in 3.10"
+         },
+         "plejecenterets budget":
+         {
+            "term":"Only in 3.10"
+         },
+         "plejehjemmets budget":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "01.01.00":
+   "00.30.18":
    {
       "terms":
       {
-         "nationalpark":
+         "frigivelse til finansiering af ekstraordinært merforbrug":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "indefrosne overførsler":
+         {
+            "term":"Only in 3.10"
+         },
+         "indefrossen overførsel":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "01.03.03":
+   "00.32.14":
    {
       "terms":
       {
-         "landzonetilladelse til etablering af begravelsesplads":
+         "Økonomisk handlefrihed":
          {
-            "term":"Only in 3.9"
-         },
-         "begravelsesplads":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "01.07.00":
+   "00.36.00":
    {
       "terms":
       {
-         "sommerhusreglen":
+         "ejerpantebrev":
          {
-            "term":"Only in 3.9"
-         },
-         "sommerhusregler":
-         {
-            "term":"Only in 3.9"
-         },
-         "sommerhusprotokol":
-         {
-            "term":"Only in 3.9"
-         },
-         "tilladelse til at erhverve fast ejendom fra personer, der ikke har fast bopæl i danmark":
-         {
-            "term":"Only in 3.9"
-         },
-         "tilladelse til køb af et sommerhus i danmark for eu-borgere":
-         {
-            "term":"Only in 3.9"
-         },
-         "eu-borger":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "01.07.04":
+   "01.02.32":
    {
       "terms":
       {
-         "ansøgning":
+         "arealfortegnelse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "helårs":
+         "ekspropriation af fast ejendom efter planloven":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "01.24.04":
+   "01.04.00":
    {
       "terms":
       {
-         "udtalelse fra kystdirektoratet":
+         "registreringsmeddelelse":
          {
-            "term":"Only in 3.9"
-         },
-         "§ 2-udtalelse":
-         {
-            "term":"Only in 3.9"
-         },
-         "bidragsfordeling ved kystbeskyttelse":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "01.24.14":
+   "01.05.15":
    {
-      "class":"Only in 3.9"
+      "terms":
+      {
+         "forbud mod ikke-erhvervsmæssig sejlads":
+         {
+            "term":"Only in 3.10"
+         },
+         "ikke-erhvervsmæssig sejlads":
+         {
+            "term":"Only in 3.10"
+         },
+         "hurtigtsejlende fartøjer":
+         {
+            "term":"Only in 3.10"
+         },
+         "sejlads med vandscootere":
+         {
+            "term":"Only in 3.10"
+         },
+         "speedbåd":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "01.07.10":
+   {
+      "class":"Only in 3.10"
+   },
+   "01.11.28":
+   {
+      "terms":
+      {
+         "ekspropriation ved friarealsbeslutning":
+         {
+            "term":"Only in 3.10"
+         },
+         "friarealsbeslutning":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "01.13.29":
+   {
+      "terms":
+      {
+         "pileurt":
+         {
+            "term":"Only in 3.10"
+         }
+      }
    },
    "02.00.20":
    {
       "terms":
       {
-         "registrering af elvarme":
+         "ejerfortegnelse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "privatpersoner eller interessentskab":
+         "ejf":
          {
-            "term":"Only in 3.9"
-         },
-         "står anført":
-         {
-            "term":"Only in 3.9"
-         },
-         "reduktion i el-afgift":
-         {
-            "term":"Only in 3.9"
-         },
-         "ejendomsmægler":
-         {
-            "term":"Only in 3.9"
-         },
-         "bebygget":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -173,193 +252,340 @@
       {
          "by151":
          {
-            "term":"Only in 3.9"
+            "settings":
+            {
+               "requiredOr":"3.10: '1'. 3.9: '0'"
+            }
          },
          "by 151":
          {
-            "term":"Only in 3.9"
+            "settings":
+            {
+               "requiredOr":"3.10: '1'. 3.9: '0'"
+            }
          },
-         "erklæring/færdigmelding fra autoriseret mester (kloak- og sanitetsarbejde)":
+         "by151_br15":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "by 151_br15":
+         {
+            "term":"Only in 3.10"
+         },
+         "pladsfordelingsplan":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "03.01.04":
+   "02.34.04":
    {
-      "terms":
-      {
-         "undersøgelse af begrundet mistanke om overtrædelse af bopælspligt":
-         {
-            "term":"Only in 3.9"
-         }
-      }
+      "class":"Only in 3.9"
    },
-   "03.02.00":
+   "03.09.00":
    {
       "terms":
       {
-         "driftslån":
+         "tilbudsbrev":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "tilsagn":
+         "fraflytning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "korrigeret tilsagn":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "03.10.00":
-   {
-      "terms":
-      {
-         "udsat boligområde":
-         {
-            "term":"Only in 3.9"
-         },
-         "ghettoområde":
-         {
-            "term":"Only in 3.9"
-         },
-         "hårdt ghettoområde":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "03.10.02":
-   {
-      "terms":
-      {
-         "kriterier for udlejning af ejendomme i et udsat boligområde":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "03.10.04":
-   {
-      "terms":
-      {
          "udlejning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "almene ungdomsboliger":
+         "boligselskab":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "boligforening":
+         {
+            "term":"Only in 3.10"
+         },
+         "genudlejning":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "03.10.24":
+   "03.10.12":
+   {
+      "terms":
+      {
+         "mærkning af demensegnede plejeboliger":
+         {
+            "term":"Only in 3.10"
+         },
+         "udlejning af plejeboliger til personer under 35 år":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "03.12.13":
    {
       "settings":
       {
-         "title":"3.9: 'Almene boligorganisationer \u2013 styringsdialog mv.'. 3.8: 'Boligorganisationers virksomhed, styringsdialog'"
-      },
+         "title":"3.10: 'Opsigelse og genhusning, almene boliger'. 3.9: 'Opsigelse af almene boliger'"
+      }
+   },
+   "04.01.00":
+   {
       "terms":
       {
-         "påbud om forsvarlig drift af den almene boligorganisation":
+         "hundefold":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "udpegning af forretningsfører":
+         "hundeluftningsområde":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "påbud om indsatser i udsatte boligområder og ghettoområder":
+         "fritløbsområde":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "hundegård":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "03.10.30":
+   "04.03.00":
+   {
+      "terms":
+      {
+         "lokallegeplads":
+         {
+            "term":"Only in 3.10"
+         },
+         "kvarterslegeplads":
+         {
+            "term":"Only in 3.10"
+         },
+         "bydelslegeplads":
+         {
+            "term":"Only in 3.10"
+         },
+         "udflugtslegeplads":
+         {
+            "term":"Only in 3.10"
+         },
+         "legelandskab":
+         {
+            "term":"Only in 3.10"
+         },
+         "cykellegebane":
+         {
+            "term":"Only in 3.10"
+         },
+         "trafiklegeplads":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "04.18":
    {
       "class":"Only in 3.9"
    },
-   "03.11.05":
-   {
-      "terms":
-      {
-         "pålæg om at foretage vedligeholdelsesarbejder":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "04.00.00":
-   {
-      "terms":
-      {
-         "hal":
-         {
-            "term":"Only in 3.9"
-         },
-         "boldbane":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "04.30.10":
-   {
-      "terms":
-      {
-         "urnebegravelsesplads":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "05.07.02":
-   {
-      "terms":
-      {
-         "sneprioritering":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "09.05.01":
-   {
-      "terms":
-      {
-         "kystforurening":
-         {
-            "term":"Only in 3.9"
-         },
-         "strandrensning":
-         {
-            "term":"Only in 3.9"
-         },
-         "forureninger af kyststrækninger":
-         {
-            "term":"Only in 3.9"
-         },
-         "forurening af kyststrækning":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "09.17.13":
+   "04.18.00":
    {
       "class":"Only in 3.9"
    },
-   "09.17.15":
+   "04.18.06":
+   {
+      "class":"Only in 3.9"
+   },
+   "04.18.10":
+   {
+      "class":"Only in 3.9"
+   },
+   "04.18.16":
+   {
+      "class":"Only in 3.9"
+   },
+   "05.26.10":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Ekspropriation, veje'. 3.9: 'Ekspropriationsbeslutning, veje'"
+      }
+   },
+   "05.26.15":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Ekspropriationserstatning, veje [udgår 2020]'. 3.9: 'Ekspropriationserstatning, veje'"
+      }
+   },
+   "06.01.15":
    {
       "terms":
       {
-         "ms101":
+         "by914_000":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "06.02.03":
+   {
+      "terms":
+      {
+         "ekspropriation":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "06.02.10":
+   {
+      "terms":
+      {
+         "tilskud til kommunale projekter":
+         {
+            "term":"Only in 3.10"
          },
-         "ms 101":
+         "tilskudsberettigede udgifter":
+         {
+            "term":"Only in 3.10"
+         },
+         "tilskudsberettiget udgift":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "09.00.12":
+   {
+      "terms":
+      {
+         "miljøtilsynsplan":
+         {
+            "term":"Only in 3.10"
+         },
+         "tilsynsfrekvens":
+         {
+            "term":"Only in 3.10"
+         },
+         "tilsynsplanlægning":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "09.13.03":
+   {
+      "terms":
+      {
+         "skide":
+         {
+            "term":"Only in 3.10"
+         },
+         "koloni":
+         {
+            "term":"Only in 3.10"
+         },
+         "larm":
+         {
+            "term":"Only in 3.10"
+         },
+         "måge":
+         {
+            "term":"Only in 3.10"
+         },
+         "klat":
+         {
+            "term":"Only in 3.10"
+         },
+         "overskid":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "09.19.01":
+   {
+      "terms":
+      {
+         "eurofin":
+         {
+            "term":"Only in 3.10"
+         },
+         "prøvenummer":
+         {
+            "term":"Only in 3.10"
+         },
+         "prøvemærke":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "13.01.00":
+   {
+      "terms":
+      {
+         "registreringspligt":
+         {
+            "term":"Only in 3.10"
+         },
+         "rafståelse af ejerandele i elforsyningsvirksomheder":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "13.02.02":
+   {
+      "terms":
+      {
+         "vandforsyning":
+         {
+            "term":"Only in 3.10"
+         },
+         "drikkevandsbekendtgørelse":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "13.05.12":
+   {
+      "terms":
+      {
+         "faste anlæg":
+         {
+            "term":"Only in 3.10"
+         },
+         "fast anlæg":
+         {
+            "term":"Only in 3.10"
+         },
+         "fjernbuskørsel":
+         {
+            "term":"Only in 3.10"
+         },
+         "fjernbuskørslen":
+         {
+            "term":"Only in 3.10"
+         },
+         "fjernbuskørsler":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "15.00.26":
+   {
+      "terms":
+      {
+         "forsøgsordninger":
          {
             "term":"Only in 3.9"
          }
@@ -369,6 +595,14 @@
    {
       "terms":
       {
+         "aktiveringsaftale":
+         {
+            "term":"Only in 3.10"
+         },
+         "detaljeret fravær med fraværsårsag":
+         {
+            "term":"Only in 3.10"
+         },
          "af71":
          {
             "term":"Only in 3.9"
@@ -379,233 +613,67 @@
          }
       }
    },
-   "15.01.12":
+   "15.08":
    {
-      "terms":
+      "settings":
       {
-         "ab292s":
-         {
-            "term":"Only in 3.9"
-         },
-         "ab 292s":
-         {
-            "term":"Only in 3.9"
-         }
+         "title":"3.10: 'Erhvervsgrunduddannelse mv. [udgår 2020]'. 3.9: 'Erhvervsgrunduddannelse mv.'"
       }
    },
-   "15.17.06":
+   "15.08.00":
    {
-      "terms":
+      "settings":
       {
-         "dp240":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 240":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp301a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 301a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp301b":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 301b":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp301c":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 301c":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp302a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 302a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp302d":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 302d":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp303":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 303":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp303a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 303a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp304":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 304":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp305":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 305":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp305a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 305a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp307b":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 307b":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp308":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 308":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp309":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 309":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp313":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 313":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp314":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 314":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp315":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 315":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp316":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 316":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp317":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 317":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp317a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 317a":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp331":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 331":
-         {
-            "term":"Only in 3.9"
-         }
+         "title":"3.10: 'Erhvervsgrunduddannelse mv. i almindelighed [udgår 2020]'. 3.9: 'Erhvervsgrunduddannelse mv. i almindelighed'"
+      }
+   },
+   "15.08.05":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Uddannelsesplan, erhvervsgrunduddannelse [udgår 2020]'. 3.9: 'Uddannelsesplan, erhvervsgrunduddannelse'"
+      }
+   },
+   "15.08.06":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Praktik i erhvervsgrunduddannelsen [udgår 2020]'. 3.9: 'Praktik i erhvervsgrunduddannelsen'"
+      }
+   },
+   "15.08.07":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Undervisning, erhvervsgrunduddannelse [udgår 2020]'. 3.9: 'Undervisning, erhvervsgrunduddannelse'"
+      }
+   },
+   "15.08.10":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Skoleydelse, erhvervsgrunduddannelse [udgår 2020]'. 3.9: 'Skoleydelse, erhvervsgrunduddannelse'"
       }
    },
    "15.20.00":
    {
       "terms":
       {
-         "genansøgning om personlig assistance":
+         "indsatsplan":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "ansøgning om personlig assistance":
+         "rehabindstilling":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "bevilling af personlig assistance":
+         "ledighedsydelse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "personlig assistent":
+         "ressourceprofil":
          {
-            "term":"Only in 3.9"
-         },
-         "handicapkompensation":
-         {
-            "term":"Only in 3.9"
-         },
-         "genbevilling af tilskud til ansættelse i fleksjob":
-         {
-            "term":"Only in 3.9"
-         },
-         "progressionsrapport":
-         {
-            "term":"Only in 3.9"
-         },
-         "prog. rap.":
-         {
-            "term":"Only in 3.9"
-         },
-         "progression":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -617,38 +685,8 @@
          {
             "settings":
             {
-               "weight":"3.9: '1000'. 3.8: '5000'"
+               "weight":"3.10: '10000'. 3.9: '1000'"
             }
-         }
-      }
-   },
-   "15.20.05":
-   {
-      "terms":
-      {
-         "in621":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 621":
-         {
-            "term":"Only in 3.9"
-         },
-         "in622":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 622":
-         {
-            "term":"Only in 3.9"
-         },
-         "in625":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 625":
-         {
-            "term":"Only in 3.9"
          }
       }
    },
@@ -656,105 +694,45 @@
    {
       "terms":
       {
-         "kom-akt":
+         "fvu":
          {
-            "term":"Only in 3.9"
-         },
-         "detaljeret fravær med fraværsårsag":
-         {
-            "term":"Only in 3.9"
-         },
-         "(fvu)":
-         {
-            "term":"Only in 3.9"
-         },
-         "aktive hold":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "15.20.30":
+   "15.20.25":
    {
       "terms":
       {
-         "tilmeldingsblanket - jobrettet uddannelse":
+         "ak001a":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "denne blanket gælder for a\u2014kasseforsikret ledig":
+         "ak 001a":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "uddannelsesforløbets nummer og navn":
+         "tilmelding til uddannelsesforløb":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "jobrettet uddannelse":
+         "tilmeldinger til uddannelsesforløbene":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "lov om aktiv beskæftigelsesindsats":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "15.20.36":
+   "15.21.01":
    {
       "terms":
       {
-         "anmodning om udbetaling af tilskud til mentorfunktion":
+         "jobordre":
          {
-            "term":"Only in 3.9"
-         },
-         "bevilget uddannelse af mentor":
-         {
-            "term":"Only in 3.9"
-         },
-         "mentor":
-         {
-            "term":"Only in 3.9"
-         },
-         "mentoruddannelse":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "15.21.05":
-   {
-      "terms":
-      {
-         "in621":
-         {
-            "term":"Only in 3.8"
-         },
-         "in 621":
-         {
-            "term":"Only in 3.8"
-         },
-         "in622":
-         {
-            "term":"Only in 3.8"
-         },
-         "in 622":
-         {
-            "term":"Only in 3.8"
-         },
-         "in625":
-         {
-            "term":"Only in 3.8"
-         },
-         "in 625":
-         {
-            "term":"Only in 3.8"
-         }
-      }
-   },
-   "15.22.06":
-   {
-      "terms":
-      {
-         "ansøgning om tilskud til personlig assistance":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -762,63 +740,93 @@
    {
       "terms":
       {
-         "in241_ara":
+         "fremmødeskema":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "in 241_ara":
+         "detaljeret fravær med fraværsårsag":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "in241_eng":
+         "fravær":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "in 241_eng":
+         "fraværsårsag":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "in241_fas":
+         "tilbudte lektioner":
          {
-            "term":"Only in 3.9"
-         },
-         "in 241_fas":
-         {
-            "term":"Only in 3.9"
-         },
-         "in241_som":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 241_som":
-         {
-            "term":"Only in 3.9"
-         },
-         "in241_tir":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 241_tir":
-         {
-            "term":"Only in 3.9"
-         },
-         "skriftlig underretning om oplysningspligt efter integrationslovens § 49":
-         {
-            "term":"Only in 3.9"
-         },
-         "integrationsloven":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "17.02.04":
+   "15.40.10":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Selvforsørgelses- og hjemrejseprogram og introduktionsprogram'. 3.9: 'Integrationsprogram og integrationskontrakter'"
+      },
+      "terms":
+      {
+         "selvforsørgelsesprogram":
+         {
+            "term":"Only in 3.10"
+         },
+         "hjemrejseprogram":
+         {
+            "term":"Only in 3.10"
+         },
+         "selvforsørgelses- og hjemrejseprogram":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.01.04":
    {
       "terms":
       {
-         "talentklasser i musik":
+         "beslutning om at nedlægge en folkeskole":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "ministers beslutning om nedlæggelse af folkeskole":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.01.11":
+   {
+      "terms":
+      {
+         "folkeskolers kvalitetsudvikling":
+         {
+            "term":"Only in 3.10"
+         },
+         "folkeskolens kvalitetsudvikling":
+         {
+            "term":"Only in 3.10"
+         },
+         "pålæg fra ministeriet om handlingsplan":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.02.18":
+   {
+      "terms":
+      {
+         "varieret skoledag":
+         {
+            "term":"Only in 3.10"
+         },
+         "varierede skoledage":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -826,39 +834,69 @@
    {
       "terms":
       {
-         "hørekonsulent":
+         "psykologisk undersøgelse":
          {
-            "term":"Only in 3.9"
-         },
-         "høretab":
-         {
-            "term":"Only in 3.9"
-         },
-         "rådgivningsforløb":
-         {
-            "term":"Only in 3.9"
-         },
-         "specialrådgivning":
-         {
-            "term":"Only in 3.9"
-         },
-         "ppv":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "17.03.08":
+   "17.03.20":
    {
       "terms":
       {
-         "betalingsdistrikt":
+         "it.rygsæk":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "revisitering":
+         "læsevanskelighed":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "skrivevanskelighed":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.11.16":
+   {
+      "terms":
+      {
+         "klubtilbud fra 4. klassetrin":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.15.12":
+   {
+      "terms":
+      {
+         "obligatoriske sprogprøver":
+         {
+            "term":"Only in 3.10"
+         },
+         "obligatoriske sprogprøver i udsatte boligområder":
+         {
+            "term":"Only in 3.10"
+         },
+         "udsat boligområde":
+         {
+            "term":"Only in 3.10"
+         },
+         "obligatorisk sprogprøve":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.20.01":
+   {
+      "terms":
+      {
+         "overgangsskema":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -866,17 +904,207 @@
    {
       "terms":
       {
-         "udsat skolestart":
+         "ansøgning om skoleudsættelse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "21.07.00":
+   "17.27.12":
    {
       "terms":
       {
-         "integrerede biblioteker":
+         "sammenhængende plan for vejledningsindsats for elever i 8. og 9. klasse":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.27.15":
+   {
+      "terms":
+      {
+         "vejledning om pligt til uddannelse, beskæftigelse eller anden aktivitet til unge mellem 15 og 17 år":
+         {
+            "term":"Only in 3.10"
+         },
+         "ungeindsats":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.27.16":
+   {
+      "terms":
+      {
+         "uddannelsesplaner ifm. brobygningsforløb":
+         {
+            "term":"Only in 3.10"
+         },
+         "uddannelsesplan ifm. brobygningsforløb":
+         {
+            "term":"Only in 3.10"
+         },
+         "brobygningsforløb":
+         {
+            "term":"Only in 3.10"
+         },
+         "uddannelsesplaner for 15-17 årige unge uden skole- eller uddannelsesforløb":
+         {
+            "term":"Only in 3.10"
+         },
+         "aftale om afsøgningsforløb til forberedende grunduddannelse":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.27.17":
+   {
+      "terms":
+      {
+         "vurdering af uddannelsesparathed":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.27.21":
+   {
+      "terms":
+      {
+         "måltal for søgning til ungdomsuddannelser for 9. og 10. klasses elever":
+         {
+            "term":"Only in 3.10"
+         },
+         "kommunal ungeindsats":
+         {
+            "term":"Only in 3.10"
+         },
+         "søgetal til erhvervsuddannelser for 9. og 10. klasses elever":
+         {
+            "term":"Only in 3.10"
+         },
+         "handlingsplan for søgning til erhvervsuddannelser":
+         {
+            "term":"Only in 3.10"
+         },
+         "vejledning om valg af ungdomsuddannelse og erhverv":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.27.25":
+   {
+      "terms":
+      {
+         "introduktionskurser og brobygning":
+         {
+            "term":"Only in 3.10"
+         },
+         "introduktionskursus og brobygning":
+         {
+            "term":"Only in 3.10"
+         },
+         "kommunal ungeindsats":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "17.27.30":
+   {
+      "class":"Only in 3.10"
+   },
+   "17.35.16":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Mellemkommunale betalinger for folkeskolens undervisning'. 3.9: 'Betaling ved skolegang i en anden kommune end bopælskommunen'"
+      },
+      "terms":
+      {
+         "mellemkommunale betalinger for folkeskolens undervisning":
+         {
+            "term":"Only in 3.10"
+         },
+         "mellemkommunal betaling for folkeskolens undervisning":
+         {
+            "term":"Only in 3.10"
+         },
+         "mellemkommunale betalinger":
+         {
+            "term":"Only in 3.10"
+         },
+         "bopælskommunens betaling":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "18.17":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Produktionsskoler (selvejende) [udgår 2020]'. 3.9: 'Produktionsskoler (selvejende)'"
+      }
+   },
+   "18.17.00":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Produktionsskoler (selvejende) i almindelighed [udgår 2020]'. 3.9: 'Produktionsskoler (selvejende) i almindelighed'"
+      }
+   },
+   "19.02.04":
+   {
+      "terms":
+      {
+         "bestilling af eksamensbevis":
+         {
+            "term":"Only in 3.10"
+         },
+         "bestilling af arkivundersøgelse":
+         {
+            "term":"Only in 3.10"
+         },
+         "stadsarkivet/bestilling af arkivundersøgelse":
+         {
+            "term":"Only in 3.10"
+         },
+         "stadsarkivet":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "21.08.06":
+   {
+      "terms":
+      {
+         "svagtseende":
+         {
+            "term":"Only in 3.10"
+         },
+         "it-kurser":
+         {
+            "term":"Only in 3.10"
+         },
+         "it-kursus":
+         {
+            "term":"Only in 3.10"
+         },
+         "it-kurset":
+         {
+            "term":"Only in 3.10"
+         },
+         "biblioteksbetjening af særlige befolkningsgrupper":
+         {
+            "term":"Only in 3.10"
+         },
+         "svagsseende":
          {
             "term":"Only in 3.9"
          }
@@ -886,313 +1114,198 @@
    {
       "terms":
       {
-         "lejlighedsbevilling":
-         {
-            "term":"Only in 3.9"
-         },
-         "spiritus":
-         {
-            "term":"Only in 3.9"
-         },
          "jazzfestival":
          {
-            "term":"Only in 3.9"
+            "settings":
+            {
+               "suffix":"3.10: 'en|er|erne'. 3.9: 'en||er||erne'"
+            }
+         },
+         "afslag på alkoholbevilling":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "22.11":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.00":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.01":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.02":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.03":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.04":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.05":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.10":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.14":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.18":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.22":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.26":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.30":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.34":
-   {
-      "class":"Only in 3.9"
-   },
-   "22.11.38":
-   {
-      "class":"Only in 3.9"
-   },
-   "23.02":
-   {
-      "class":"Only in 3.9"
-   },
-   "23.02.00":
-   {
-      "class":"Only in 3.9"
-   },
-   "23.02.10":
-   {
-      "class":"Only in 3.9"
-   },
-   "23.05.01":
+   "23.01.00":
    {
       "terms":
       {
-         "truslen":
+         "i forbindelse med sin vielse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "ofre for chikane eller stalking":
+         "i forbindelse med vielse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "personer i exitprogrammer":
+         "vielsesmyndighed":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "person i exitprogram":
+         "vielsesdato":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "vidner i straffesager":
+         "navneændring ved vielse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "vidne i straffesag":
+         "navneændring på bryllupsdagen":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "bryllupsdag":
+         {
+            "term":"Only in 3.10"
+         },
+         "ægteskabserklæring":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "23.09.04":
+   "23.05.05":
    {
       "terms":
       {
-         "kk023":
+         "beskyttet adresse":
          {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          },
-         "kk 023":
+         "oplyse en adresse":
          {
-            "term":"Only in 3.8"
-         }
-      }
-   },
-   "23.09.10":
-   {
-      "terms":
-      {
-         "kk023":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "kk 023":
+         "adresse":
          {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "23.15.10":
-   {
-      "terms":
-      {
-         "vejledning om nemkonto":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
    "23.15.20":
    {
-      "class":"Only in 3.9"
+      "terms":
+      {
+         "fr305":
+         {
+            "term":"Only in 3.10"
+         },
+         "fr 305":
+         {
+            "term":"Only in 3.10"
+         }
+      }
    },
-   "24.10.05":
+   "24.14.05":
    {
       "terms":
       {
-         "erhvervsfremmeaktivitet":
+         "filmoptagelse":
+         {
+            "term":"Only in 3.10"
+         },
+         "gennemsyn af færdigt materiale":
+         {
+            "term":"Only in 3.10"
+         },
+         "godkendelse af færdigt materiale":
+         {
+            "term":"Only in 3.10"
+         },
+         "koordinering":
+         {
+            "term":"Only in 3.10"
+         },
+         "samarbejde":
+         {
+            "term":"Only in 3.10"
+         },
+         "medievirksomhed":
+         {
+            "term":"Only in 3.10"
+         },
+         "produktionsselskab":
+         {
+            "term":"Only in 3.10"
+         },
+         "tv-program":
+         {
+            "term":"Only in 3.10"
+         },
+         "medieproduktion":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "25.00":
+   {
+      "terms":
+      {
+         "beskatning":
          {
             "term":"Only in 3.9"
          }
       }
    },
-   "24.10.07":
+   "25.00.00":
    {
       "terms":
       {
-         "erhvervsfremmeaktivitet":
+         "beskatning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "24.10.11":
+   "25.45.13":
    {
-      "terms":
-      {
-         "erhvervshus":
-         {
-            "term":"Only in 3.9"
-         }
-      }
+      "class":"Only in 3.10"
    },
-   "25.45.17":
+   "25.45.24":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.18":
+   "25.45.25":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.19":
+   "25.45.27":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.20":
+   "25.45.28":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.21":
+   "25.45.31":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.22":
+   "25.45.34":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.23":
+   "25.45.35":
    {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
-   "25.45.26":
+   "25.45.49":
    {
-      "class":"Only in 3.9"
-   },
-   "25.45.40":
-   {
-      "class":"Only in 3.9"
-   },
-   "25.45.45":
-   {
-      "class":"Only in 3.9"
-   },
-   "25.45.46":
-   {
-      "class":"Only in 3.9"
+      "class":"Only in 3.10"
    },
    "27.12.06":
    {
       "terms":
       {
-         "børnekonference":
+         "fastholdelse af ønske om bortadoption":
          {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.12.16":
-   {
-      "terms":
-      {
-         "ungdomskriminalitetsnævnets afgørelse":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.15.12":
-   {
-      "terms":
-      {
-         "gældsrådgivning":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "gældsvejledning":
+         "familieretshuset":
          {
-            "term":"Only in 3.9"
-         },
-         "gældsramte borgere":
-         {
-            "term":"Only in 3.9"
-         },
-         "gældsramt borger":
-         {
-            "term":"Only in 3.9"
-         },
-         "økonomisk rådgivning":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.24.03":
-   {
-      "terms":
-      {
-         "sagsakt":
-         {
-            "term":"Only in 3.9"
-         },
-         "familieafdeling":
-         {
-            "term":"Only in 3.9"
-         },
-         "småbørnsrådgivning":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.24.06":
-   {
-      "terms":
-      {
-         "børnekonference":
-         {
-            "term":"Only in 3.9"
-         },
-         "handleplaner efter § 140":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1200,147 +1313,27 @@
    {
       "terms":
       {
-         "bekæmpelse af ungdomskriminalitet":
-         {
-            "term":"Only in 3.9"
-         },
          "økonomisk støtte":
          {
             "term":"Only in 3.9"
          }
       }
    },
-   "27.24.15":
+   "27.24.27":
    {
       "terms":
       {
-         "bekæmpelse af ungdomskriminalitet":
+         "familieretshuset":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "revision af plan for støtten til forældrene":
+         "adoption":
          {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.24.20":
-   {
-      "terms":
-      {
-         "ungdomskriminalitetsnævn":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.24.25":
-   {
-      "settings":
-      {
-         "title":"3.9: 'Børne- og ungepålæg'. 3.8: 'Ungepålæg'"
-      },
-      "terms":
-      {
-         "afgørelse om bortfald af ungepålæg":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "bistand fra politiet til udøvelse af beføjelser":
+         "ankestyrelsen":
          {
-            "term":"Only in 3.9"
-         },
-         "børne- og ungepålæg":
-         {
-            "term":"Only in 3.9"
-         },
-         "børnepålæg":
-         {
-            "term":"Only in 3.9"
-         },
-         "kursus i vredeshåndtering":
-         {
-            "term":"Only in 3.9"
-         },
-         "negativ adfærd":
-         {
-            "term":"Only in 3.9"
-         },
-         "pålæg om at bidrage til at genoprette forrettet skade":
-         {
-            "term":"Only in 3.9"
-         },
-         "pålæg om klubtilbud":
-         {
-            "term":"Only in 3.9"
-         },
-         "pålæg om praktiktilbud":
-         {
-            "term":"Only in 3.9"
-         },
-         "pålæg om socialpædagogisk behandlingstilbud":
-         {
-            "term":"Only in 3.9"
-         },
-         "pålæg om tidspunkt for at være hjemme":
-         {
-            "term":"Only in 3.9"
-         },
-         "pålæg om kontaktperson":
-         {
-            "term":"Only in 3.9"
-         },
-         "samfundsnyttigt arbejde":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.24.36":
-   {
-      "terms":
-      {
-         "erstatningssamvær":
-         {
-            "term":"Only in 3.9"
-         },
-         "anmodning til fogedretten om udlevering af barn":
-         {
-            "term":"Only in 3.9"
-         },
-         "samværsdokument":
-         {
-            "term":"Only in 3.9"
-         },
-         "midlertidig samvær":
-         {
-            "term":"Only in 3.9"
-         },
-         "forældremyndighed":
-         {
-            "term":"Only in 3.9"
-         },
-         "afgørelse om midlertidigt samvær":
-         {
-            "term":"Only in 3.9"
-         },
-         "forældreansvarsloven":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.24.39":
-   {
-      "terms":
-      {
-         "inddragelse af familie og netværk":
-         {
-            "term":"Only in 3.9"
-         },
-         "samtale med barnet inden afgørelse":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1348,223 +1341,153 @@
    {
       "terms":
       {
-         "underretningsvejledning":
+         "mistanke om overgreb":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "ulovligt skolefravær":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "27.27.00":
+   "27.27.30":
    {
-      "terms":
+      "settings":
       {
-         "sel":
-         {
-            "term":"Only in 3.9"
-         }
+         "title":"3.10: 'Anbringelse i almene plejefamilier'. 3.9: 'Anbringelse i plejefamilie'"
       }
    },
-   "27.27.09":
+   "27.27.31":
    {
-      "terms":
+      "class":"Only in 3.10"
+   },
+   "27.27.32":
+   {
+      "settings":
       {
-         "aktindsigt":
-         {
-            "term":"Only in 3.9"
-         }
+         "title":"3.10: 'Anbringelse i specialiserede plejefamilier'. 3.9: 'Anbringelse i kommunale plejefamilier'"
       }
    },
    "27.27.48":
    {
       "terms":
       {
-         "uledsagede mindreårige udlændinge":
+         "opretholdelse af en afgørelse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "anbringelse i sikrede institutioner":
+         "Ændring af anbringelsessted":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "anbringelse i sikret institution":
+         "afbrydelse af forbindelse":
          {
-            "term":"Only in 3.9"
-         },
-         "anbringelse på særligt sikrede afdelinger":
-         {
-            "term":"Only in 3.9"
-         },
-         "anbringelse på særligt sikret afdeling":
-         {
-            "term":"Only in 3.9"
-         },
-         "faglig undersøgelse":
-         {
-            "term":"Only in 3.9"
-         },
-         "afgørelse om anbringelse i sikrede institutioner":
-         {
-            "term":"Only in 3.9"
-         },
-         "afgørelse om anbringelse i sikret institution":
-         {
-            "term":"Only in 3.9"
-         },
-         "afgørelse om ophør af anbringelse i sikrede institutioner":
-         {
-            "term":"Only in 3.9"
-         },
-         "afgørelse om ophør af anbringelse i sikret institution":
-         {
-            "term":"Only in 3.9"
-         },
-         "plan for indsats under anbringelsen":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
-   },
-   "27.29":
-   {
-      "class":"Only in 3.9"
-   },
-   "27.29.00":
-   {
-      "class":"Only in 3.9"
-   },
-   "27.29.05":
-   {
-      "class":"Only in 3.9"
-   },
-   "27.29.10":
-   {
-      "class":"Only in 3.9"
-   },
-   "27.29.15":
-   {
-      "class":"Only in 3.9"
    },
    "27.29.20":
    {
-      "class":"Only in 3.9"
-   },
-   "27.29.25":
-   {
-      "class":"Only in 3.9"
-   },
-   "27.29.30":
-   {
-      "class":"Only in 3.9"
-   },
-   "27.30.00":
-   {
       "terms":
       {
-         "bu739":
-         {
-            "term":"Only in 3.9"
-         },
-         "bu 739":
+         "ændring af anbringelsessted":
          {
             "term":"Only in 3.9"
          }
       }
    },
-   "27.30.16":
+   "27.30.04":
    {
+      "settings":
+      {
+         "title":"3.10: 'Plejefamilier, godkendelse mv.'. 3.9: 'Plejefamilier og kommunale plejefamilier, godkendelse mv.'"
+      },
       "terms":
       {
-         "forebyggelse af kriminalitet for de anbragte børn og unge":
+         "almene plejefamilier":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "almen plejefamilie":
+         {
+            "term":"Only in 3.10"
+         },
+         "forstærkede plejefamilier":
+         {
+            "term":"Only in 3.10"
+         },
+         "forstærket plejefamilie":
+         {
+            "term":"Only in 3.10"
+         },
+         "specialiserede plejefamilier":
+         {
+            "term":"Only in 3.10"
+         },
+         "specialiseret plejefamilie":
+         {
+            "term":"Only in 3.10"
+         },
+         "efteruddannelse og supervision":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "27.33.00":
+   "27.30.08":
    {
       "terms":
       {
-         "bu731":
+         "faglig støtte til netværksplejefamilier og adoptanter":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "bu 731":
+         "faglig støtte":
          {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "27.33.04":
-   {
-      "terms":
-      {
-         "bu731":
-         {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          },
-         "bu 731":
+         "adoptant":
          {
-            "term":"Only in 3.8"
-         },
-         "bu739":
-         {
-            "term":"Only in 3.8"
-         },
-         "bu 739":
-         {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          }
       }
    },
    "27.35.28":
    {
-      "class":"Only in 3.9"
-   },
-   "27.37.12":
-   {
       "terms":
       {
-         "tinglysning":
+         "ansøgning om socialt frikort":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "statsforvaltning":
+         "lov om forsøg med et socialt frikort":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "tinglysningsret":
+         "sociale frikort":
          {
-            "term":"Only in 3.9"
-         },
-         "resultat af tinglysning":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "27.42.00":
+   "27.36.12":
    {
       "terms":
       {
-         "boligstøtteberettiget areal":
+         "botræning":
          {
-            "term":"Only in 3.9"
-         },
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.42.08":
+   {
+      "terms":
+      {
          "venteliste":
          {
-            "term":"Only in 3.9"
-         },
-         "boligindskud":
-         {
-            "term":"Only in 3.9"
-         },
-         "beboerliste":
-         {
-            "term":"Only in 3.9"
-         },
-         "inddragelse af boligtilbud vedrørende indberetning":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1582,17 +1505,67 @@
          }
       }
    },
-   "27.51.04":
+   "27.57.08":
    {
       "terms":
       {
-         "rusmiddelbehandling":
+         "ophold i tilbud for personer under 35 år":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "behandlingstilbud for stofmisbrugere":
+         "boformer efter sel § 108a":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "boform efter sel § 108a":
+         {
+            "term":"Only in 3.10"
+         },
+         "udredning efter voksenudredningsmetoden":
+         {
+            "term":"Only in 3.10"
+         },
+         "boformer der understøtter et ungdomsliv":
+         {
+            "term":"Only in 3.10"
+         },
+         "boform der understøtter et ungdomsliv":
+         {
+            "term":"Only in 3.10"
+         },
+         "boligdokument":
+         {
+            "term":"Only in 3.10"
+         },
+         "botilbud målrettet unge":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.57.20":
+   {
+      "terms":
+      {
+         "ophold på særlige pladser på psykiatrisk afdeling":
+         {
+            "term":"Only in 3.10"
+         },
+         "visitationsansvar":
+         {
+            "term":"Only in 3.10"
+         },
+         "revurdering":
+         {
+            "term":"Only in 3.10"
+         },
+         "afgørelse om eventuel fortsat visitation":
+         {
+            "term":"Only in 3.10"
+         },
+         "udslusning efter afslutning af ophold":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1600,17 +1573,61 @@
    {
       "terms":
       {
-         "ansøgning på specialpædagogisk bistand":
+         "loftliftsystem":
+         {
+            "term":"Only in 3.10"
+         },
+         "skinnesystem":
+         {
+            "term":"Only in 3.10"
+         },
+         "montagedato":
+         {
+            "term":"Only in 3.10"
+         },
+         "montage":
+         {
+            "term":"Only in 3.10"
+         },
+         "opmåling":
+         {
+            "term":"Only in 3.10"
+         },
+         "hm008":
          {
             "term":"Only in 3.9"
          },
-         "hjælpemiddelenheden":
+         "hm 008":
          {
             "term":"Only in 3.9"
+         }
+      }
+   },
+   "27.60.04":
+   {
+      "terms":
+      {
+         "standardstrømpe":
+         {
+            "term":"Only in 3.10"
          },
-         "socialpædagogisk bistand":
+         "specialfremstille":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.60.16":
+   {
+      "terms":
+      {
+         "hm008":
+         {
+            "term":"Only in 3.10"
+         },
+         "hm 008":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1618,83 +1635,147 @@
    {
       "terms":
       {
-         "begrænsning af adgang til ekstern kommunikation":
+         "forældremyndighedsindehaver":
          {
-            "term":"Only in 3.9"
-         },
-         "mobiltelefon":
-         {
-            "term":"Only in 3.9"
-         },
-         "aflevering under anbringelse":
-         {
-            "term":"Only in 3.9"
-         },
-         "nedsættelse eller fratagelse af lommepenge":
-         {
-            "term":"Only in 3.9"
-         },
-         "overtrædelse af husorden":
-         {
-            "term":"Only in 3.9"
-         },
-         "reaktion":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
+   },
+   "27.66.08":
+   {
+      "terms":
+      {
+         "fuldbyrdelse af strafferetlige foranstaltninger":
+         {
+            "term":"Only in 3.10"
+         },
+         "fuldbyrdelse af strafferetlig foranstaltning":
+         {
+            "term":"Only in 3.10"
+         },
+         "fysisk guidning":
+         {
+            "term":"Only in 3.10"
+         },
+         "husorden":
+         {
+            "term":"Only in 3.10"
+         },
+         "husordner":
+         {
+            "term":"Only in 3.10"
+         },
+         "afværgehjælp":
+         {
+            "term":"Only in 3.10"
+         },
+         "fastholdelse":
+         {
+            "term":"Only in 3.10"
+         },
+         "låsning og sikring af yderdøre og vinduer":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.66.12":
+   {
+      "class":"Only in 3.10"
+   },
+   "27.69.00":
+   {
+      "terms":
+      {
+         "sp 020":
+         {
+            "term":"Only in 3.10"
+         },
+         "sp020":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.69.24":
+   {
+      "terms":
+      {
+         "sg005":
+         {
+            "term":"Only in 3.10"
+         },
+         "sg 005":
+         {
+            "term":"Only in 3.10"
+         },
+         "information om oplysningspligt og om kommunens behandling":
+         {
+            "term":"Only in 3.10"
+         },
+         "oplysningspligt":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.69.52":
+   {
+      "terms":
+      {
+         "handlingsplan til sikring af dataindberetning":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "27.69.58":
+   {
+      "class":"Only in 3.10"
    },
    "27.69.64":
    {
       "terms":
       {
-         "whistleblowerordning":
+         "socialtilsyn":
          {
-            "term":"Only in 3.9"
-         },
-         "socialtilsynet":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "28.03.04":
+   "28.09.00":
    {
       "terms":
       {
-         "depositum ifm ansøgning om godkendelse":
+         "tildeling af flyver-pædagog":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "depositum i forbindelse med ansøgning om godkendelse":
+         "flyverfunktion":
          {
-            "term":"Only in 3.9"
-         },
-         "fordeling af børn i daginstitutioner":
-         {
-            "term":"Only in 3.9"
-         },
-         "krav om driftsgaranti":
-         {
-            "term":"Only in 3.9"
-         },
-         "tilbagekaldelse af godkendelse":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "28.06.04":
+   "28.09.08":
    {
       "terms":
       {
-         "privat pasningsordning":
+         "afgørelse efter dagtilbudslovens § 12 om standsning af børneydelse":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "fleksibel pasningsordning":
+         "oplysning om pligt til at deltage i sprogvurdering":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "forældres varetagelse af sprogstimulering":
+         {
+            "term":"Only in 3.10"
+         },
+         "tilsyn med forældres sprogstimulering":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1702,175 +1783,207 @@
    {
       "terms":
       {
-         "dt211":
+         "overgangsskema":
          {
-            "term":"Only in 3.9"
-         },
-         "dt 211":
-         {
-            "term":"Only in 3.9"
-         },
-         "fordeling af børn i daginstitution":
-         {
-            "term":"Only in 3.9"
-         },
-         "30 pct. børn fra udsatte boligområder":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "28.09.44":
+   "29.06.08":
    {
       "terms":
       {
-         "dt236":
+         "betaling pr. sengedag for sygehusbehandling":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "dt 236":
+         "færdigbehandlingstakst":
          {
-            "term":"Only in 3.9"
-         },
-         "dt235":
-         {
-            "term":"Only in 3.8"
-         },
-         "dt 235":
-         {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          }
       }
    },
-   "28.09.48":
+   "29.09.04":
    {
       "terms":
       {
-         "dt235":
+         "sundhedssamtale":
          {
-            "term":"Only in 3.9"
-         },
-         "dt 235":
-         {
-            "term":"Only in 3.9"
-         },
-         "dt236":
-         {
-            "term":"Only in 3.8"
-         },
-         "dt 236":
-         {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          }
       }
    },
-   "28.09.52":
+   "29.09.08":
    {
-      "class":"Only in 3.9"
+      "terms":
+      {
+         "mestring af egen sygdom":
+         {
+            "term":"Only in 3.10"
+         }
+      }
    },
-   "29.09.20":
+   "29.18.00":
+   {
+      "terms":
+      {
+         "ernæringsscreening":
+         {
+            "term":"Only in 3.10"
+         },
+         "vederlagsfri hjemmesygepleje":
+         {
+            "term":"Only in 3.10"
+         },
+         "kommunale akutpladser":
+         {
+            "term":"Only in 3.10"
+         },
+         "kommunal akutplads":
+         {
+            "term":"Only in 3.10"
+         },
+         "kommunale akutfunktioner":
+         {
+            "term":"Only in 3.10"
+         },
+         "kommunal akutfunktion":
+         {
+            "term":"Only in 3.10"
+         },
+         "sygeplejeklinik":
+         {
+            "term":"Only in 3.10"
+         },
+         "udkørende funktion":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "29.21.04":
+   {
+      "terms":
+      {
+         "rehabiliteringsplan":
+         {
+            "term":"Only in 3.10"
+         },
+         "risikovurderingsskema":
+         {
+            "term":"Only in 3.10"
+         },
+         "udskrivelse":
+         {
+            "term":"Only in 3.10"
+         },
+         "udskrivning":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "30.10.50":
+   {
+      "class":"Only in 3.10"
+   },
+   "30.15":
    {
       "settings":
       {
-         "title":"3.9: 'Sundhedsmæssige forhold på behandlingssteder (plejehjem, bosteder mv.)'. 3.8: 'Sundhedsmæssige forhold på plejehjem m.v.'"
-      },
-      "terms":
-      {
-         "rusmiddelbehandling":
-         {
-            "term":"Only in 3.9"
-         },
-         "lægelige behandlingstilbud for stofmisbrugere":
-         {
-            "term":"Only in 3.9"
-         }
+         "title":"3.10: 'Statsforvaltningernes opgaver, udvikling og organisering [udgår 2020]'. 3.9: 'Statsforvaltningernes opgaver, udvikling og organisering'"
       }
    },
-   "30.10.15":
+   "30.15.00":
    {
-      "terms":
+      "settings":
       {
-         "ansøgning som domsmand/nævning":
-         {
-            "term":"Only in 3.9"
-         },
-         "nævning":
-         {
-            "term":"Only in 3.9"
-         },
-         "domsmand":
-         {
-            "term":"Only in 3.9"
-         }
+         "title":"3.10: 'Statsforvaltningernes opgaver, udvikling og organisering i almindelighed [udgår 2020]'. 3.9: 'Statsforvaltningernes opgaver, udvikling og organisering i almindelighed'"
       }
    },
    "32.03.00":
    {
       "terms":
       {
-         "dp222":
+         "forespørgsler vedr. pensionsrelevante forhold":
          {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          },
-         "dp 222":
+         "forespørgsel vedr. pensionsrelevante forhold":
          {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
+         },
+         "forespørgsler om bopælstid":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsel om bopælstid":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsler om flytning":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsel om flytning":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsler om udbetaling af børnepension fra":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsel om udbetaling af børnepension fra":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsler om enkepension fra":
+         {
+            "term":"Only in 3.10"
+         },
+         "forespørgsel om enkepension fra":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "32.03.04":
+   "32.03.42":
+   {
+      "class":"Only in 3.9"
+   },
+   "32.03.46":
+   {
+      "class":"Only in 3.9"
+   },
+   "32.06.00":
    {
       "terms":
       {
-         "ansøgning om nedsat licens":
+         "boligforeningens attestation":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "overførsel af boligstøtte":
+         {
+            "term":"Only in 3.10"
+         },
+         "oversigt over boligstøtte":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "32.03.12":
+   "32.06.16":
    {
       "terms":
       {
-         "helbredstillæg - refundering af udlæg":
+         "indskudslån":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "overslag fra tandtekniker/tandlæge":
+         "afdrag":
          {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "32.03.16":
-   {
-      "terms":
-      {
-         "søge om førtidspension":
-         {
-            "term":"Only in 3.9"
-         },
-         "fortidspension":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "32.03.56":
-   {
-      "terms":
-      {
-         "dækning af udgifter til husleje":
-         {
-            "term":"Only in 3.9"
-         },
-         "boligudgifter under varetægt":
-         {
-            "term":"Only in 3.9"
-         },
-         "boligudgift":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1878,81 +1991,75 @@
    {
       "terms":
       {
-         "my345s":
+         "sel 100":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "my 345s":
+         "insulin":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "erklæring om oplysningspligt":
+         "sel § 100":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "32.21.00":
+   "32.21.16":
    {
       "terms":
       {
-         "in241_ara":
+         "overslag vedrørende tandprotetisk behandling hvortil der søges økonomisk bistand":
          {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          },
-         "in 241_ara":
+         "overprotese":
          {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          },
-         "in241_eng":
+         "tandteknik":
          {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          },
-         "in 241_eng":
+         "overenskomstfastsat tandteknikerbehandling":
          {
-            "term":"Only in 3.8"
-         },
-         "in241_fas":
-         {
-            "term":"Only in 3.8"
-         },
-         "in 241_fas":
-         {
-            "term":"Only in 3.8"
-         },
-         "in241_som":
-         {
-            "term":"Only in 3.8"
-         },
-         "in 241_som":
-         {
-            "term":"Only in 3.8"
-         },
-         "in241_tir":
-         {
-            "term":"Only in 3.8"
-         },
-         "in 241_tir":
-         {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          }
       }
-   },
-   "32.24.02":
-   {
-      "class":"Only in 3.8"
    },
    "32.24.04":
    {
       "terms":
       {
-         "ko537":
+         "ansøgning om hjælp til boligudgifter under afsoning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "ko 537":
+         "afsoning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "uledsagede flygtningebørn":
+         {
+            "term":"Only in 3.10"
+         },
+         "las 29":
+         {
+            "term":"Only in 3.10"
+         },
+         "lov om aktiv socilpolitik §29":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "32.24.12":
+   {
+      "terms":
+      {
+         "ly905_000":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
@@ -1966,259 +2073,17 @@
          }
       }
    },
-   "32.24.30":
+   "32.26.24":
    {
-      "terms":
-      {
-         "dp204h":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 204h":
-         {
-            "term":"Only in 3.9"
-         },
-         "jobafklaring (refusion)":
-         {
-            "term":"Only in 3.9"
-         },
-         "jobafklaring":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "32.26.10":
-   {
-      "terms":
-      {
-         "ansøgning om danskbonus":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "32.30.00":
-   {
-      "terms":
-      {
-         "erklæring om raskmelding":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp212":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 212":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp240":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 240":
-         {
-            "term":"Only in 3.8"
-         }
-      }
+      "class":"Only in 3.10"
    },
    "32.30.04":
    {
       "terms":
       {
-         "dp212":
+         "oplysninger om ret til arbejdsløshedsdagpenge":
          {
-            "term":"Only in 3.9"
-         },
-         "dp 212":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp222":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 222":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp235":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp 235":
-         {
-            "term":"Only in 3.9"
-         },
-         "dp204h":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 204h":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp301a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 301a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp301b":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 301b":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp301c":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 301c":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp302a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 302a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp302d":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 302d":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp303":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 303":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp303a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 303a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp304":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 304":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp305":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 305":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp305a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 305a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp307b":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 307b":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp308":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 308":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp309":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 309":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp313":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 313":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp314":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 314":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp315":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 315":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp316":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 316":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp317":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 317":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp317a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 317a":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp331":
-         {
-            "term":"Only in 3.8"
-         },
-         "dp 331":
-         {
-            "term":"Only in 3.8"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -2226,95 +2091,47 @@
    {
       "terms":
       {
-         "tilladelse til hjælp til forsørgelse":
+         "vejledning og opkvalificering":
          {
-            "term":"Only in 3.9"
-         },
-         "rekognosceringsrejser til hjemlandet":
-         {
-            "term":"Only in 3.9"
-         },
-         "rekognosceringsrejse til hjemlandet":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "32.45.04":
+   "32.66":
    {
-      "terms":
-      {
-         "videregivelse af oplysninger til kommunen":
-         {
-            "term":"Only in 3.9"
-         },
-         "undring":
-         {
-            "term":"Only in 3.9"
-         },
-         "§9 fra udk":
-         {
-            "term":"Only in 3.9"
-         },
-         "udbetaling danmark §9":
-         {
-            "term":"Only in 3.9"
-         }
-      }
+      "class":"Only in 3.10"
    },
-   "54.15.28":
+   "32.66.00":
    {
-      "terms":
-      {
-         "in902m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 902m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in906m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 906m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in908m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 908m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in920m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 920m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in921m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 921m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in935m_2019_03":
-         {
-            "term":"Only in 3.9"
-         },
-         "in 935m_2019_03":
-         {
-            "term":"Only in 3.9"
-         }
-      }
+      "class":"Only in 3.10"
+   },
+   "32.66.10":
+   {
+      "class":"Only in 3.10"
+   },
+   "32.68":
+   {
+      "class":"Only in 3.10"
+   },
+   "32.68.00":
+   {
+      "class":"Only in 3.10"
+   },
+   "32.68.05":
+   {
+      "class":"Only in 3.10"
+   },
+   "32.68.10":
+   {
+      "class":"Only in 3.10"
+   },
+   "32.68.15":
+   {
+      "class":"Only in 3.10"
+   },
+   "32.68.20":
+   {
+      "class":"Only in 3.10"
    },
    "54.17.00":
    {
@@ -2330,420 +2147,281 @@
          }
       }
    },
-   "82.00.10":
+   "54.42":
+   {
+      "class":"Only in 3.10"
+   },
+   "54.42.00":
+   {
+      "class":"Only in 3.10"
+   },
+   "54.42.04":
+   {
+      "class":"Only in 3.10"
+   },
+   "54.42.08":
+   {
+      "class":"Only in 3.10"
+   },
+   "81.15.00":
    {
       "terms":
       {
-         "ledningsføring":
+         "lokal løndannelse":
          {
-            "term":"Only in 3.9"
-         },
-         "rørføring":
-         {
-            "term":"Only in 3.9"
-         },
-         "byggesagsmappe":
-         {
-            "term":"Only in 3.9"
-         },
-         "tegningsgrundlag":
-         {
-            "term":"Only in 3.9"
-         },
-         "kloakseparering":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "82.09.05":
+   "81.27.00":
    {
       "terms":
       {
-         "kw":
+         "ferie":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "aflæsning":
+         "fridag":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "personale":
+         {
+            "term":"Only in 3.10"
          }
       }
+   },
+   "81.28.00":
+   {
+      "terms":
+      {
+         "orientering om sidste sygedag":
+         {
+            "term":"Only in 3.10"
+         },
+         "orientering vedrørende jeres medarbejders raskmelding":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "81.29.01":
+   {
+      "settings":
+      {
+         "title":"3.10: 'Arbejdsulykker/arbejdsskader'. 3.9: 'Ulykkestilfælde'"
+      },
+      "terms":
+      {
+         "arbejdsulykke":
+         {
+            "term":"Only in 3.10"
+         },
+         "ulykkessag":
+         {
+            "term":"Only in 3.10"
+         },
+         "anmeldelse af arbejdsulykker til arbejdstilsynet":
+         {
+            "term":"Only in 3.10"
+         },
+         "anmeldelse af arbejdsulykker til arbejdsmarkedets erhvervssikring":
+         {
+            "term":"Only in 3.10"
+         },
+         "safetynet":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "81.29.03":
+   {
+      "terms":
+      {
+         "dokumentation af risikosituationer og nærved-ulykker":
+         {
+            "term":"Only in 3.10"
+         },
+         "nærved-ulykke":
+         {
+            "term":"Only in 3.10"
+         },
+         "tilløb til ulykke":
+         {
+            "term":"Only in 3.10"
+         }
+      }
+   },
+   "81.29.08":
+   {
+      "class":"Only in 3.10"
    },
    "83.11.05":
    {
       "terms":
       {
-         "påmindelse om periodisk syn af køretøj":
+         "opkrævning af periodisk afgift":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "bødeforlæg for manglende syn af køretøj":
+         "motorafgift":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "manglende syn":
+         "grøn udligningsafgift":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "ikke er blevet synet":
+         "du skal betale afgift af dit køretøj":
          {
-            "term":"Only in 3.9"
-         },
-         "registreringsafgift":
-         {
-            "term":"Only in 3.9"
-         },
-         "fritaget for registreringsafgift":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "84.00.10":
+   "83.15.20":
    {
       "terms":
       {
-         "po001_2019":
+         "medieovervågning og presseklip":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "po 001_2019":
+         "medieovervågning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "po002_2019":
+         "presseklip":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "po 002_2019":
+         "nyhedsovervågning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "omtale af kommunen":
+         {
+            "term":"Only in 3.10"
+         },
+         "pressetjeneste":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "84.01.00":
+   "84.03.07":
    {
       "terms":
       {
-         "fr146":
+         "stemmemodtager":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "fr 146":
+         "hjælp til stemmeafgivning":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "84.07.00":
-   {
-      "terms":
-      {
-         "ep008":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008_eng":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008_eng":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008_fra":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008_fra":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008_ger":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008_ger":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008_pol":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008_pol":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008f":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008f":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008f_eng":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008f_eng":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008f_fra":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008f_fra":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008f_ger":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008f_ger":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep008f_pol":
-         {
-            "term":"Only in 3.9"
-         },
-         "ep 008f_pol":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "84.20.05":
-   {
-      "settings":
-      {
-         "title":"3.9: 'Bindende kommunale folkeafstemninger'. 3.8: 'Bindende kommunale folkeafstemninger i almindelighed'"
-      }
-   },
-   "85.08.25":
-   {
-      "terms":
-      {
-         "slettefrist":
-         {
-            "term":"Only in 3.9"
-         },
-         "gennemførelse af sletning":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "85.09":
+   "84.06":
    {
       "class":"Only in 3.9"
    },
-   "85.09.00":
-   {
-      "class":"Only in 3.9"
-   },
-   "85.09.05":
-   {
-      "class":"Only in 3.9"
-   },
-   "85.09.10":
-   {
-      "class":"Only in 3.9"
-   },
-   "85.09.15":
+   "84.06.00":
    {
       "class":"Only in 3.9"
    },
    "85.09.20":
    {
-      "class":"Only in 3.9"
-   },
-   "85.09.25":
-   {
-      "class":"Only in 3.9"
-   },
-   "85.09.30":
-   {
-      "class":"Only in 3.9"
-   },
-   "85.09.35":
-   {
-      "class":"Only in 3.9"
-   },
-   "85.09.40":
-   {
-      "class":"Only in 3.9"
+      "terms":
+      {
+         "sletningsanmodning":
+         {
+            "term":"Only in 3.10"
+         }
+      }
    },
    "85.10.01":
    {
-      "settings":
+      "terms":
       {
-         "title":"3.9: 'Behandling og videregivelse af oplysninger - databeskyttelse'. 3.8: 'Anvendelsesområder, behandling og videregivelse af oplysninger [udgår 2019]'"
+         "sp020":
+         {
+            "term":"Only in 3.9"
+         },
+         "sp 020":
+         {
+            "term":"Only in 3.9"
+         }
       }
-   },
-   "85.10.03":
-   {
-      "class":"Only in 3.8"
    },
    "85.10.05":
    {
-      "settings":
-      {
-         "title":"3.9: 'Den registreredes indsigtsret [udgår 2019]'. 3.8: 'Den registreredes indsigtsret'"
-      },
-      "terms":
-      {
-         "fr071":
-         {
-            "term":"Only in 3.8"
-         },
-         "fr 071":
-         {
-            "term":"Only in 3.8"
-         }
-      }
-   },
-   "85.10.08":
-   {
       "class":"Only in 3.9"
-   },
-   "85.10.09":
-   {
-      "settings":
-      {
-         "title":"3.9: 'Dataansvarlig, kommunen som'. 3.8: 'Dataansvarlig og databehandler'"
-      },
-      "terms":
-      {
-         "aftale vedrørende fælles dataansvar":
-         {
-            "term":"Only in 3.9"
-         },
-         "delt dataansvar":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "85.10.10":
-   {
-      "class":"Only in 3.8"
    },
    "85.10.11":
    {
-      "settings":
-      {
-         "title":"3.9: 'Oplysningspligt over for den registrerede [udgår 2019]'. 3.8: 'Oplysningspligt over for den registrerede'"
-      }
-   },
-   "85.10.12":
-   {
-      "terms":
-      {
-         "slettefrist":
-         {
-            "term":"Only in 3.9"
-         }
-      }
+      "class":"Only in 3.9"
    },
    "85.10.13":
    {
       "terms":
       {
+         "datatilsynet":
+         {
+            "term":"Only in 3.10"
+         },
+         "databeskyttelsesforordning":
+         {
+            "term":"Only in 3.10"
+         },
+         "forordning":
+         {
+            "term":"Only in 3.10"
+         },
+         "persondata":
+         {
+            "term":"Only in 3.10"
+         },
          "brud på persondatasikkerhed":
          {
             "term":"Only in 3.9"
-         },
-         "sikkerhedshændelse":
-         {
-            "term":"Only in 3.9"
          }
       }
-   },
-   "85.10.14":
-   {
-      "terms":
-      {
-         "data protection impact assessment":
-         {
-            "term":"Only in 3.9"
-         },
-         "dpia":
-         {
-            "term":"Only in 3.9"
-         },
-         "høj risiko for fysiske personers rettigheder":
-         {
-            "term":"Only in 3.9"
-         },
-         "informationssikkerhedsstandard":
-         {
-            "term":"Only in 3.9"
-         },
-         "sikkerhedshændelse":
-         {
-            "term":"Only in 3.9"
-         },
-         "konsekvensanalyse":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "85.10.18":
-   {
-      "class":"Only in 3.9"
    },
    "85.10.30":
    {
-      "class":"Only in 3.9"
+      "terms":
+      {
+         "offentliggørelse af fotos":
+         {
+            "term":"Only in 3.10"
+         },
+         "offentliggørelse af fotografier":
+         {
+            "term":"Only in 3.10"
+         }
+      }
    },
    "85.11.04":
    {
       "terms":
       {
-         "migrering af data":
+         "kmd sag":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "datamigrering":
+         "diaform-system":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "aula":
+         "oio-snitflade":
          {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "85.11.06":
-   {
-      "terms":
-      {
-         "kmd nova":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "migrering af data":
+         "vitae-omsorg csc scandihealth":
          {
-            "term":"Only in 3.9"
-         },
-         "administrativt system":
-         {
-            "term":"Only in 3.9"
-         },
-         "datamigrering":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
@@ -2751,76 +2429,90 @@
    {
       "terms":
       {
-         "it-sikkerhedsbrist":
+         "phishing":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "malware":
+         "informationssikkerhedskontinuitet":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "spyware":
+         "center for cybersikkerhed":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "sikkerhedsbrist":
+         "netsikkerhedstjeneste":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "cyber":
+         {
+            "term":"Only in 3.10"
+         },
+         "tilslutning til center for cybersikkerheds netsikkerhedstjeneste":
+         {
+            "term":"Only in 3.10"
          }
       }
    },
-   "85.15.04":
+   "87.05.05":
    {
       "terms":
       {
-         "driftsstabilitet":
+         "arbejdsmiljøledelsessystem":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "it":
+         "intern audit af arbejdsmiljø":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "backup":
+         "intern auditering af arbejdsmiljø":
          {
-            "term":"Only in 3.9"
-         },
-         "genetablering af it-system":
-         {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          }
       }
    },
-   "85.15.05":
+   "87.14.00":
    {
       "terms":
       {
-         "malware":
+         "akkrediteret certificering":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "spyware":
+         "akkrediteret inspektion":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
          },
-         "it-kriminalitet":
+         "anerkendt arbejdsmiljøcertifikat":
          {
-            "term":"Only in 3.9"
+            "term":"Only in 3.10"
+         },
+         "arbejdsmiljøcertificering":
+         {
+            "term":"Only in 3.10"
+         },
+         "arbejdsmiljøcertificering af børnehaver":
+         {
+            "term":"Only in 3.10"
+         },
+         "arbejdsmiljøindsats":
+         {
+            "term":"Only in 3.10"
+         },
+         "arbejdsmiljøledelse":
+         {
+            "term":"Only in 3.10"
+         },
+         "konkrete arbejdsmiljøcertifikater":
+         {
+            "term":"Only in 3.10"
+         },
+         "konkret arbejdsmiljøcertifikat":
+         {
+            "term":"Only in 3.10"
          }
       }
-   },
-   "87.00.00":
-   {
-      "terms":
-      {
-         "arbejdsmiljøtiltag":
-         {
-            "term":"Only in 3.9"
-         }
-      }
-   },
-   "87.12.04":
-   {
-      "class":"Only in 3.9"
    }
 }
