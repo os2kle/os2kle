@@ -2,7 +2,7 @@
 
 OS2KLE is developed by Taxon ApS (https://taxon.dk) for OS2 - Offentligt digitaliseringsfællesskab (https://os2.eu).
 
-Copyright (c) 2013-2019, OS2 - Offentligt digitaliseringsfællesskab.
+Copyright (c) 2013-2020, OS2 - Offentligt digitaliseringsfællesskab.
 
 OS2KLE is free software; you may use, study, modify and distribute it under the terms of version 2.0 of the Mozilla Public License. See the LICENSE file for details. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
