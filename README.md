@@ -12,9 +12,7 @@ All source code in this and the underlying directories is subject to the terms o
 
 OS2kle er en maskinlæsbar KLE, som sammen med motoren Taxon Classifier gør, at dokumenter automatisk kan opmærkes efter KLE.
 
-OS2KLE bruges til automatisk KLE opmærkning i forbindelse strukturering af sager og dokumenter i forbindelse med klargøring af mange dokumenter til arkiv eller SAPA, støttet KLE-opmærkning hos den enkelte sagsbehandler, automatisk postsortering, strukturering af hjemmesider og mange andre steder.
-
-OK2KLE bruges af over 30 kommuner.
+OK2KLE bruges af over 30 kommuner til postsortering, strukturering af hjemmesider og andet.
 
 ## Filer
 
