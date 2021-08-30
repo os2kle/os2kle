@@ -1,64 +1,33 @@
 {
-   "00.14.00":
+   "00.07.45":
+   {
+      "class":"Only in 3.14"
+   },
+   "00.16.00":
    {
       "terms":
       {
-         "velkomstbrev til nye borgere":
+         "befolkningsforhold":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
+         },
+         "demografi":
+         {
+            "term":"Only in 3.14"
          }
       }
    },
-   "00.32.22":
+   "00.30.04":
    {
       "terms":
       {
-         "momsrefusion":
+         "demografi":
          {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "01.02.15":
-   {
-      "terms":
-      {
-         "vvm pligt":
-         {
-            "settings":
-            {
-               "suffix":"3.13: 'en|ig|igt'. 3.12: 'en|ene'"
-            }
+            "term":"Only in 3.14"
          },
-         "ikke-vvm pligt":
+         "demografimodel":
          {
-            "term":"Only in 3.13"
-         },
-         "vvm-pligt":
-         {
-            "term":"Only in 3.13"
-         },
-         "ikke vvm-pligt":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "01.11.20":
-   {
-      "terms":
-      {
-         "landsbyfornyelse":
-         {
-            "term":"Only in 3.13"
-         },
-         "byf2012 område":
-         {
-            "term":"Only in 3.13"
-         },
-         "bossinf-område":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
@@ -66,605 +35,258 @@
    {
       "settings":
       {
-         "title":"3.13: 'Aftalt grøn byfornyelse [udgår]'. 3.12: 'Aftalt grøn byfornyelse'"
+         "title":"3.14: 'Aftalt grøn byfornyelse [udgår 2022]'. 3.13: 'Aftalt grøn byfornyelse [udgår]'"
       }
    },
    "01.11.30":
    {
       "settings":
       {
-         "title":"3.13: 'Byggeskadefonden vedrørende bygningsfornyelse [udgår]'. 3.12: 'Byggeskadefonden vedrørende bygningsfornyelse'"
+         "title":"3.14: 'Byggeskadefonden vedrørende bygningsfornyelse [udgår 2022]'. 3.13: 'Byggeskadefonden vedrørende bygningsfornyelse [udgår]'"
       }
    },
-   "01.11.34":
+   "01.11.60":
+   {
+      "class":"Only in 3.14"
+   },
+   "01.24.08":
    {
       "terms":
       {
-         "anmeldelsesordning":
+         "mk001":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          },
-         "besigtigelse af ejendom":
+         "mk 001":
          {
-            "term":"Only in 3.13"
-         },
-         "vedligeholdelsesmangler":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
-   },
-   "01.11.38":
-   {
-      "terms":
-      {
-         "indberetningssystem":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "01.16":
-   {
-      "class":"Only in 3.12"
-   },
-   "01.16.00":
-   {
-      "class":"Only in 3.12"
-   },
-   "01.16.04":
-   {
-      "class":"Only in 3.12"
-   },
-   "01.16.06":
-   {
-      "class":"Only in 3.12"
-   },
-   "01.30":
-   {
-      "class":"Only in 3.13"
-   },
-   "01.30.00":
-   {
-      "class":"Only in 3.13"
-   },
-   "01.30.10":
-   {
-      "class":"Only in 3.13"
-   },
-   "02.01.12":
-   {
-      "class":"Only in 3.13"
    },
    "02.34.18":
    {
       "terms":
       {
-         "brandsyn":
+         "lovliggørende byggetilladelse":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          },
-         "henlæggelseshjemmel":
+         "byggelovens § 16c":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "03.10.02":
+   "03.10.18":
+   {
+      "class":"Only in 3.14"
+   },
+   "05.01.02":
    {
       "terms":
       {
-         "udlejningsvanskeligheder":
+         "cykelstrimmel":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          },
-         "beboersammensætning":
+         "2 minus 1 vej":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "03.16":
-   {
-      "class":"Only in 3.12"
-   },
-   "03.16.00":
-   {
-      "class":"Only in 3.12"
-   },
-   "03.17":
-   {
-      "class":"Only in 3.12"
-   },
-   "03.17.00":
-   {
-      "class":"Only in 3.12"
-   },
-   "03.18":
-   {
-      "class":"Only in 3.12"
-   },
-   "03.18.00":
-   {
-      "class":"Only in 3.12"
-   },
-   "05.01.08":
+   "05.04.05":
    {
       "terms":
       {
-         "gade":
+         "centrale vej- og stifortegnelse":
          {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
+            "term":"Only in 3.14"
          },
-         "vej":
+         "cvf":
          {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "vejarbejde":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "fortov":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "trafikspejl":
-         {
-            "term":"Only in 3.13"
-         },
-         "trafikale foranstaltninger":
-         {
-            "term":"Only in 3.13"
-         },
-         "vejbump":
-         {
-            "term":"Only in 3.13"
-         },
-         "buslomme":
-         {
-            "term":"Only in 3.13"
-         },
-         "chikane":
-         {
-            "term":"Only in 3.13"
-         },
-         "cirkelbump":
-         {
-            "term":"Only in 3.13"
-         },
-         "fodgængerfelt":
-         {
-            "term":"Only in 3.13"
-         },
-         "hastighedsdæmpende foranstaltninger":
-         {
-            "term":"Only in 3.13"
-         },
-         "stribebump":
-         {
-            "term":"Only in 3.13"
-         },
-         "trafikbump":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "05.01.50":
+   "05.04.06":
    {
-      "class":"Only in 3.13"
+      "terms":
+      {
+         "nyanlæg":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "cykelsti":
+         {
+            "term":"Only in 3.14"
+         }
+      }
    },
-   "05.09.20":
+   "06.01.54":
    {
-      "class":"Only in 3.13"
+      "class":"Only in 3.14"
    },
-   "05.13.10":
+   "09.17.58":
+   {
+      "class":"Only in 3.14"
+   },
+   "14.05.06":
+   {
+      "terms":
+      {
+         "brandsprøjte":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "15.01.16":
    {
       "settings":
       {
-         "title":"3.13: 'Færdselsindskrænkninger'. 3.12: 'Lokale trafiksaneringer'"
-      },
+         "title":"3.14: 'Arbejdsløshedsdagpenge [udgår 2021]'. 3.13: 'Arbejdsløshedsdagpenge'"
+      }
+   },
+   "15.17.06":
+   {
       "terms":
       {
-         "afholdelse af cykelløb":
+         "tidlig opfølgning":
          {
-            "term":"Only in 3.13"
-         },
-         "30 km zone":
-         {
-            "term":"Only in 3.13"
-         },
-         "opsætning af bom":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "05.14.30":
+   "15.18.20":
    {
-      "class":"Only in 3.13"
+      "terms":
+      {
+         "minkerhvervet":
+         {
+            "term":"Only in 3.14"
+         }
+      }
    },
-   "05.26.15":
+   "15.62":
    {
-      "class":"Only in 3.12"
+      "class":"Only in 3.14"
    },
-   "06.00.07":
+   "15.62.00":
+   {
+      "class":"Only in 3.14"
+   },
+   "15.62.05":
+   {
+      "class":"Only in 3.14"
+   },
+   "15.62.10":
+   {
+      "class":"Only in 3.14"
+   },
+   "15.62.15":
+   {
+      "class":"Only in 3.14"
+   },
+   "15.62.40":
+   {
+      "class":"Only in 3.14"
+   },
+   "15.62.45":
+   {
+      "class":"Only in 3.14"
+   },
+   "17.00.00":
+   {
+      "terms":
+      {
+         "velfærdsaftale":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "17.03.04":
    {
       "settings":
       {
-         "title":"3.13: 'Klimatilpasning, spildevand'. 3.12: 'Klimatilpasning'"
+         "title":"3.14: 'Pædagogisk-psykologisk vurdering'. 3.13: 'Pædagogisk-psykologisk vurdering (PPR) Indstilling og vurdering'"
       }
    },
-   "09.00.04":
-   {
-      "class":"Only in 3.12"
-   },
-   "09.05.15":
+   "22.11.00":
    {
       "terms":
       {
-         "bekendtgørelse om vurdering af virkninger på miljøet af havbrug beliggende længere end 1 sømil fra kysten §6, stk. 2":
+         "tk005":
          {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
+            "term":"Only in 3.14"
          },
-         "vvm-rapport":
+         "tk 005":
          {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
+            "term":"Only in 3.14"
          },
-         "vvm":
+         "tk015":
          {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
+            "term":"Only in 3.14"
          },
-         "intensivt fiskeopdræt":
+         "tk 015":
          {
-            "term":"Only in 3.13"
-         },
-         "saltvandsdambrug":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "09.17.19":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Godkendelser af husdyrbrug - husdyrbrugloven § 16a'. 3.12: 'Godkendelse for husdyrbrug - husdyrbrugloven § 16a'"
-      }
-   },
-   "09.17.21":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Tilladelser til husdyrbrug - husdyrbrugloven § 16b'. 3.12: 'Tilladelse for husdyrbrug - husdyrbrugloven § 16b'"
-      }
-   },
-   "09.17.23":
-   {
-      "class":"Only in 3.13"
-   },
-   "09.20.20":
-   {
-      "class":"Only in 3.13"
-   },
-   "15.01.12":
+   "22.11.02":
    {
       "terms":
       {
-         "ab294":
+         "tk007":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          },
-         "ab 294":
+         "tk 007":
          {
-            "term":"Only in 3.13"
-         },
-         "ab294s":
-         {
-            "term":"Only in 3.13"
-         },
-         "ab 294s":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "15.08":
-   {
-      "class":"Only in 3.12"
-   },
-   "15.08.00":
-   {
-      "class":"Only in 3.12"
-   },
-   "15.08.05":
-   {
-      "class":"Only in 3.12"
-   },
-   "15.08.06":
-   {
-      "class":"Only in 3.12"
-   },
-   "15.08.07":
-   {
-      "class":"Only in 3.12"
-   },
-   "15.08.10":
-   {
-      "class":"Only in 3.12"
-   },
-   "15.18.05":
+   "22.11.14":
    {
       "terms":
       {
-         "ab135":
+         "tk008":
          {
-            "settings":
-            {
-               "weight":"3.13: '1000'. 3.12: '10000'"
-            }
+            "term":"Only in 3.14"
          },
-         "ab 135":
+         "tk 008":
          {
-            "settings":
-            {
-               "weight":"3.13: '1000'. 3.12: '10000'"
-            }
+            "term":"Only in 3.14"
          }
       }
    },
-   "17.01.00":
+   "23.15.25":
    {
-      "terms":
-      {
-         "gradvis åbning af skoler":
-         {
-            "term":"Only in 3.13"
-         },
-         "genåbning":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "17.03.08":
-   {
-      "terms":
-      {
-         "specialundervisningstilbud":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "specialundervisning":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "specialpædagogisk bistand":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "specialskole":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "specialklasse":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "terapeutisk vurdering":
-         {
-            "term":"Only in 3.13"
-         },
-         "psykomotorisk terapi":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "17.03.10":
-   {
-      "terms":
-      {
-         "førbørnehaveklasse":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "førskoleelev":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "førskolebørn":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "psykomotorisk terapi":
-         {
-            "term":"Only in 3.13"
-         },
-         "terapeutisk vurdering":
-         {
-            "term":"Only in 3.13"
-         },
-         "forskolebarn":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "19.02.19":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Indsigt i egne personoplysninger, offentlige arkiver'. 3.12: 'Indsigt i arkivalier med personoplysninger'"
-      },
-      "terms":
-      {
-         "begæring om indsigt i egne personoplysninger":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "21.07.00":
-   {
-      "terms":
-      {
-         "kombinationsbibliotek":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "23.25.10":
-   {
-      "terms":
-      {
-         "fr071":
-         {
-            "term":"Only in 3.13"
-         },
-         "fr 071":
-         {
-            "term":"Only in 3.13"
-         }
-      }
+      "class":"Only in 3.14"
    },
    "27.00.00":
    {
       "terms":
       {
-         "hm301":
+         "velfærdsaftale":
          {
-            "term":"Only in 3.12"
-         },
-         "hm 301":
-         {
-            "term":"Only in 3.12"
+            "term":"Only in 3.14"
          }
       }
    },
-   "27.12.06":
+   "27.09.08":
    {
       "terms":
       {
-         "psykisk sårbare unge":
+         "døgnbehandling":
          {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "27.12.08":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Familievejlederordning / overgang til voksenlivet'. 3.12: 'Familievejlederordning / familievejledning'"
-      },
-      "terms":
-      {
-         "familievejlederordning":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "familievejleder":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "familievejledning":
-         {
-            "settings":
-            {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
-            }
-         },
-         "overgang til voksenlivet":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "27.12.26":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Politi, socialforvaltning og psykiatri samarbejde (PSP)'. 3.12: 'Politi, Socialforvaltning og Psykiatri samarbejde (PSP)'"
-      }
-   },
-   "27.12.30":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Politi, socialforvaltning og psykiatri henvendelser (PSP)'. 3.12: 'Politi, Socialforvaltning og Psykiatri henvendelser (PSP)'"
-      }
-   },
-   "27.12.34":
-   {
-      "settings":
-      {
-         "title":"3.13: 'Kriminalforsorg, socialforvaltning og politi samarbejde (KSP)'. 3.12: 'Kriminalforsorg, Socialforvaltning og Politi samarbejde (KSP)'"
-      }
-   },
-   "27.21.08":
-   {
-      "terms":
-      {
-         "hm301":
-         {
-            "term":"Only in 3.13"
-         },
-         "hm 301":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
@@ -672,378 +294,334 @@
    {
       "terms":
       {
-         "børn":
+         "bu100":
          {
             "settings":
             {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
+               "requiredOr":"3.14: '1'. 3.13: '0'"
             }
          },
-         "barn":
+         "bu 100":
          {
             "settings":
             {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
+               "requiredOr":"3.14: '1'. 3.13: '0'"
             }
          },
-         "ung":
+         "bu105":
          {
             "settings":
             {
-               "requiredOr":"3.13: '1'. 3.12: '0'"
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "bu 105":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "ics120":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "ics 120":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
             }
          }
       }
    },
-   "27.30.00":
+   "27.24.45":
    {
-      "terms":
+      "settings":
       {
-         "børn og unge":
-         {
-            "settings":
-            {
-               "weight":"3.13: '1'. 3.12: '5'"
-            }
-         }
+         "title":"3.14: 'Underretning / underretningspligt m.v.'. 3.13: 'Underretningspligt m.v.'"
       }
-   },
-   "27.39.32":
-   {
-      "class":"Only in 3.13"
    },
    "27.48.04":
    {
       "terms":
       {
-         "hm311":
+         "klippekort til ekstra ledsagelse":
          {
-            "term":"Only in 3.13"
-         },
-         "hm 311":
-         {
-            "term":"Only in 3.13"
-         },
-         "hm312":
-         {
-            "term":"Only in 3.13"
-         },
-         "hm 312":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "27.69.62":
-   {
-      "class":"Only in 3.13"
-   },
-   "29.06.00":
+   "27.51.04":
    {
       "terms":
       {
-         "patientklager over udbetaling danmark":
+         "døgnbehandling":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "27.60.20":
+   {
+      "terms":
+      {
+         "fritagelse for afgifter":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "28.00.00":
+   {
+      "terms":
+      {
+         "velfærdsaftale":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "28.06.16":
+   {
+      "terms":
+      {
+         "børnenormering/-tal":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "børnenormering":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "børnetal":
+         {
+            "settings":
+            {
+               "requiredOr":"3.14: '1'. 3.13: '0'"
+            }
+         },
+         "minimumsnormering":
+         {
+            "term":"Only in 3.14"
+         },
+         "indsamling af data":
+         {
+            "term":"Only in 3.14"
+         },
+         "datainstruks":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "29.08.06":
+   {
+      "terms":
+      {
+         "overvågning af smitsomme sygdomme via spildevand":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "29.08.12":
+   {
+      "terms":
+      {
+         "incidens":
+         {
+            "term":"Only in 3.14"
+         },
+         "incidenstal":
+         {
+            "term":"Only in 3.14"
          }
       }
    },
    "29.08.20":
    {
-      "class":"Only in 3.13"
-   },
-   "29.08.24":
-   {
-      "class":"Only in 3.13"
-   },
-   "29.09.08":
-   {
       "terms":
       {
-         "superviseret gangtræning":
+         "kviktest af skoleelever":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          },
-         "åreforsnævring i bene":
+         "skoletest":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "29.12.12":
+   "32.03.54":
+   {
+      "class":"Only in 3.14"
+   },
+   "32.12.05":
+   {
+      "class":"Only in 3.14"
+   },
+   "32.12.06":
+   {
+      "class":"Only in 3.14"
+   },
+   "32.12.09":
+   {
+      "class":"Only in 3.14"
+   },
+   "32.12.10":
+   {
+      "class":"Only in 3.14"
+   },
+   "32.24.00":
    {
       "terms":
       {
-         "psykisk sårbare unge":
+         "tilsyn med kommunernes rådighedsvurdering":
          {
-            "term":"Only in 3.13"
-         },
-         "forebyggende":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "32.03.18":
-   {
-      "class":"Only in 3.12"
-   },
-   "32.03.44":
+   "32.24.06":
    {
       "terms":
       {
-         "sp701":
+         "udeblivelse":
          {
-            "term":"Only in 3.13"
-         },
-         "sp 701":
-         {
-            "term":"Only in 3.13"
-         },
-         "sp705":
-         {
-            "term":"Only in 3.13"
-         },
-         "sp 705":
-         {
-            "term":"Only in 3.13"
-         },
-         "seniorpensionsenheden":
-         {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "32.03.50":
-   {
-      "class":"Only in 3.13"
-   },
-   "32.18.12":
+   "32.24.07":
    {
       "terms":
       {
-         "pasning af børn":
+         "skærpet rådighedssanktion":
          {
-            "term":"Only in 3.13"
+            "term":"Only in 3.14"
          }
       }
    },
-   "32.24.32":
+   "32.30.04":
+   {
+      "terms":
+      {
+         "midlertidig forlængelse af retten til sygedagpenge":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "32.36.00":
+   {
+      "terms":
+      {
+         "tilbagebetalingskrav":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "32.36.10":
+   {
+      "class":"Only in 3.14"
+   },
+   "81.14.20":
+   {
+      "class":"Only in 3.14"
+   },
+   "85.08.25":
    {
       "settings":
       {
-         "title":"3.13: 'Uddannelseshjælp [udgår 2022]'. 3.12: 'Uddannelseshjælp'"
+         "title":"3.14: 'Sletning af personoplysninger / dataminimering'. 3.13: 'Sletning af personhenførbare data'"
+      },
+      "terms":
+      {
+         "sletteliste":
+         {
+            "term":"Only in 3.14"
+         }
       }
    },
-   "32.24.48":
+   "85.15.03":
+   {
+      "terms":
+      {
+         "identitetssikring":
+         {
+            "term":"Only in 3.14"
+         },
+         "nsis":
+         {
+            "term":"Only in 3.14"
+         }
+      }
+   },
+   "87.09":
    {
       "settings":
       {
-         "title":"3.13: 'Selvforsørgelses- og hjemrejseydelse og overgangsydelse [udgår 2022]'. 3.12: 'Selvforsørgelses- og hjemrejseydelse og overgangsydelse'"
+         "title":"3.14: 'Arbejdsmiljø - stoffer og materialer'. 3.13: 'Stoffer og materialer'"
       }
    },
-   "32.45.04":
+   "87.09.00":
    {
-      "terms":
+      "settings":
       {
-         "daglig registrering af medarbejder":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - stoffer og materialer i almindelighed'. 3.13: 'Stoffer og materialer i almindelighed'"
       }
    },
-   "54.17.20":
+   "87.10":
    {
-      "terms":
+      "settings":
       {
-         "asylansøgerbørn":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - hviletid og fridøgn'. 3.13: 'Hviletid og fridøgn'"
       }
    },
-   "81.07.02":
+   "87.10.00":
    {
-      "terms":
+      "settings":
       {
-         "udtalelse om praktikant":
-         {
-            "term":"Only in 3.13"
-         },
-         "seminarpraktikant":
-         {
-            "term":"Only in 3.13"
-         },
-         "lærerstuderende":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - hviletid og fridøgn i almindelighed'. 3.13: 'Hviletid og fridøgn i almindelighed'"
       }
    },
-   "81.27.01":
+   "87.11":
    {
-      "terms":
+      "settings":
       {
-         "pa200":
-         {
-            "term":"Only in 3.13"
-         },
-         "pa 200":
-         {
-            "term":"Only in 3.13"
-         },
-         "pa210":
-         {
-            "term":"Only in 3.13"
-         },
-         "pa 210":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - unge under 18 år'. 3.13: 'Unge under 18 år'"
       }
    },
-   "81.28.08":
+   "87.11.00":
    {
-      "class":"Only in 3.13"
-   },
-   "81.39.10":
-   {
-      "terms":
+      "settings":
       {
-         "e-læringskurser":
-         {
-            "term":"Only in 3.13"
-         },
-         "virtuelle kurser":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - unge under 18 år i almindelighed'. 3.13: 'Unge under 18 år i almindelighed'"
       }
    },
-   "81.39.15":
+   "87.12":
    {
-      "terms":
+      "settings":
       {
-         "e-læringskurser":
-         {
-            "term":"Only in 3.13"
-         },
-         "virtuelle kurser":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - lægeundersøgelser mv.'. 3.13: 'Lægeundersøgelser mv.'"
       }
    },
-   "83.09.15":
+   "87.12.00":
    {
-      "class":"Only in 3.13"
-   },
-   "84.00.10":
-   {
-      "terms":
+      "settings":
       {
-         "po001_2021":
-         {
-            "term":"Only in 3.13"
-         },
-         "po 001_2021":
-         {
-            "term":"Only in 3.13"
-         },
-         "po002_2021":
-         {
-            "term":"Only in 3.13"
-         },
-         "po 002_2021":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "84.20.05":
-   {
-      "terms":
-      {
-         "optagelse på valgliste":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "85.09":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.00":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.05":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.10":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.15":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.20":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.25":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.30":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.35":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.09.40":
-   {
-      "class":"Only in 3.12"
-   },
-   "85.10.00":
-   {
-      "terms":
-      {
-         "dataetik":
-         {
-            "term":"Only in 3.13"
-         },
-         "dataetisk råd":
-         {
-            "term":"Only in 3.13"
-         },
-         "brug af data":
-         {
-            "term":"Only in 3.13"
-         },
-         "god databehandlingsskik":
-         {
-            "term":"Only in 3.13"
-         },
-         "begrænsninger for brug af data":
-         {
-            "term":"Only in 3.13"
-         }
-      }
-   },
-   "85.10.18":
-   {
-      "terms":
-      {
-         "gdpr-årshjul":
-         {
-            "term":"Only in 3.13"
-         }
+         "title":"3.14: 'Arbejdsmiljø - lægeundersøgelser mv. i almindelighed'. 3.13: 'Lægeundersøgelser mv. i almindelighed'"
       }
    }
 }
