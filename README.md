@@ -2,17 +2,19 @@
 
 OS2KLE is developed by Taxon ApS (https://taxon.dk) for OS2 - Offentligt digitaliseringsfællesskab (https://os2.eu).
 
-Copyright (c) 2013-2022, OS2 - Offentligt digitaliseringsfællesskab.
+Copyright (c) 2013-2023, OS2 - Offentligt digitaliseringsfællesskab.
 
-OS2KLE is free software; you may use, study, modify and distribute it under the terms of version 2.0 of the Mozilla Public License. See the LICENSE file for details. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
+OS2KLE is a free and open dataset; you may use, study, modify and distribute it under the terms of version 2.0 of the Mozilla Public License. See the LICENSE file for details. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 All source code in this and the underlying directories is subject to the terms of the Mozilla Public License, v. 2.0.
 
 ## Beskrivelse
 
-OS2KLE er en maskinlæsbar KLE, som sammen med en motor (f.eks. TaxonScanner) gør, at dokumenter automatisk kan opmærkes efter KLE.
+OS2KLE er et maskinlæsbar KLE-datasæt, som sammen med en motor (f.eks. TaxonScanner) gør, at dokumenter automatisk kan opmærkes efter KLE.
 
 OK2KLE bruges af over 30 kommuner til postsortering, strukturering af hjemmesider og andet.
+
+Læs mere på https://os2.eu/produkt/os2kle.
 
 ## Filer
 
