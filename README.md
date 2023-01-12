@@ -20,7 +20,6 @@ OS2KLE kan f.eks. bruges til:
     Søgeoptimering, præjournalisering eller adgangsstyring,
     Strukturering af hjemmesider, hvor emnet er opdelt efter KLE.
 
-## Arkitekturen bag
 OS2KLE består af en Master, som er bygget over KLE og de fælles forhold i kommunerne. Den kan downloades fra GitHub. OS2KLE opdateres to gange årligt, så den følger udviklingen af KLE. 
 OS2KLE Master kan bruges, som den er, men det giver et langt bedre opmærkningsresultat og en højere præcision, hvis den redigeres og tilpasses i forhold til den specifikke opgave hos den enkelte kommune.
 Afhængig af hvilke data, der opmærkes, kan en tilpasset OS2kle opnå en opmærkningspræcision på op til mellem 85-100%.
