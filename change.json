@@ -1,231 +1,290 @@
 {
-   "00.05.02":
-   {
-      "class":"Only in 3.18"
-   },
-   "00.05.07":
+   "00.05.03":
    {
       "terms":
       {
-         "grønt flag":
+         "købstadsjubilæer":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          },
-         "grønne spirer flaget":
+         "købstadsjubilæum":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "00.22.02":
+   "00.05.11":
    {
       "terms":
       {
-         "initiativretten":
+         "kongebesøg":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "01.05.12":
+   "00.15.01":
    {
       "terms":
       {
-         "udtagning af jord":
+         "tværgående teams":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          },
-         "lavbundsjorder":
+         "faste teams":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "00.24.00":
+   {
+      "terms":
+      {
+         "kl formandskab":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "01.02.03":
+   {
+      "terms":
+      {
+         "strategisk planlægning for bymidte":
+         {
+            "term":"Only in 3.20"
          },
-         "naturlig hydrologi":
+         "bynatur":
          {
-            "term":"Only in 3.19"
-         }
-      }
-   },
-   "03.24":
-   {
-      "class":"Only in 3.19"
-   },
-   "03.24.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "03.24.05":
-   {
-      "class":"Only in 3.19"
-   },
-   "03.24.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "04.04.00":
-   {
-      "terms":
-      {
-         "kønsopdelt svømning":
-         {
-            "term":"Only in 3.19"
-         }
-      }
-   },
-   "05.01.40":
-   {
-      "terms":
-      {
-         "omkørselsrute":
-         {
-            "term":"Only in 3.19"
-         }
-      }
-   },
-   "05.13.10":
-   {
-      "terms":
-      {
-         "fartbump":
-         {
-            "term":"Only in 3.19"
-         }
-      }
-   },
-   "06.02.10":
-   {
-      "terms":
-      {
-         "gydeplads":
-         {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          },
-         "passager for fisk":
+         "andel med grønne arealer":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "andel med grønt areal":
+         {
+            "term":"Only in 3.20"
+         },
+         "planstrategitillæg":
+         {
+            "term":"Only in 3.20"
+         },
+         "planlægning i kystnærhedszone":
+         {
+            "term":"Only in 3.20"
+         },
+         "procentdel med grønne arealer":
+         {
+            "term":"Only in 3.20"
          }
       }
    },
-   "09.13.00":
+   "01.02.05":
    {
       "terms":
       {
-         "mårhund":
+         "Ø-udviklingsplan":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "bonuslokalplan":
+         {
+            "term":"Only in 3.20"
+         },
+         "bynatur":
+         {
+            "term":"Only in 3.20"
+         },
+         "nulparkering":
+         {
+            "term":"Only in 3.20"
+         },
+         "krav om afværgeforanstaltning":
+         {
+            "term":"Only in 3.20"
+         },
+         "lokalplanbestemmelse":
+         {
+            "term":"Only in 3.20"
+         },
+         "ustøttede private ungdomsboliger":
+         {
+            "term":"Only in 3.20"
+         },
+         "statsligt udpeget energipark":
+         {
+            "term":"Only in 3.20"
+         },
+         "indberetning til miljøministeren":
+         {
+            "term":"Only in 3.20"
          }
+      }
+   },
+   "01.02.25":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Agenda 21 [udgår 2025]'. 3.19: 'Agenda 21'"
+      }
+   },
+   "01.03.03":
+   {
+      "terms":
+      {
+         "tilladelser til planlægning":
+         {
+            "term":"Only in 3.20"
+         },
+         "bæredygtige turismeprojekter":
+         {
+            "term":"Only in 3.20"
+         },
+         "omdannelse af bygninger":
+         {
+            "term":"Only in 3.20"
+         },
+         "kystnærhedszone":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "02.34.35":
+   {
+      "class":"Only in 3.20"
+   },
+   "03.01.07":
+   {
+      "class":"Only in 3.20"
+   },
+   "03.02.12":
+   {
+      "terms":
+      {
+         "foreløbig godkendelse af leje":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "03.10.04":
+   {
+      "terms":
+      {
+         "vurdering af borgers økonomi":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "03.25.01":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Landstal - boligplacering af flygtninge [udgår 2025]'. 3.19: 'Landstal - boligplacering af flygtninge'"
+      }
+   },
+   "03.25.03":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Regionskvoter - boligplacering af flygtninge [udgår 2025]'. 3.19: 'Regionskvoter - boligplacering af flygtninge'"
+      }
+   },
+   "03.25.07":
+   {
+      "terms":
+      {
+         "boligplacering af flygtning":
+         {
+            "term":"Only in 3.20"
+         },
+         "regionskvote":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "03.30.05":
+   {
+      "terms":
+      {
+         "boligsociale helhedsplaner":
+         {
+            "term":"Only in 3.20"
+         },
+         "boligsocial helhedsplan":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "05.09.02":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Betalingsparkering - parkeringslicenser og betalingsafgifter'. 3.19: 'Betalingsparkering: Parkeringslicenser og betalingsafgifter'"
+      }
+   },
+   "07.18.00":
+   {
+      "terms":
+      {
+         "affaldssorteringsordning":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "09.08.28":
+   {
+      "class":"Only in 3.20"
+   },
+   "13.02.00":
+   {
+      "terms":
+      {
+         "vandforsyningslovens § 65":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "14.12.16":
+   {
+      "terms":
+      {
+         "arrangementsbrandsyn":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "14.12.19":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Midlertidig overnatning, forebyggende beredskabsforanstaltninger [udgår 2024]'. 3.19: 'Midlertidig overnatning, forebyggende beredskabsforanstaltninger'"
       }
    },
    "15.06":
    {
-      "settings":
-      {
-         "title":"3.19: 'Sundheds- og sikkerhedsforhold på erhvervsvirksomheder [udgår 2024]'. 3.18: 'Sundheds- og sikkerhedsforhold på erhvervsvirksomheder'"
-      }
+      "class":"Only in 3.19"
    },
    "15.06.00":
    {
-      "settings":
-      {
-         "title":"3.19: 'Sundheds- og sikkerhedsforhold på erhvervsvirksomheder i almindelighed [udgår 2024]'. 3.18: 'Sundheds- og sikkerhedsforhold på erhvervsvirksomheder i almindelighed'"
-      }
+      "class":"Only in 3.19"
    },
-   "15.21.25":
-   {
-      "class":"Only in 3.18"
-   },
-   "15.40.25":
+   "17.00.35":
    {
       "terms":
       {
-         "si101":
+         "digital mistrivsel":
          {
-            "term":"Only in 3.19"
-         },
-         "si 101":
-         {
-            "term":"Only in 3.19"
-         },
-         "si201":
-         {
-            "term":"Only in 3.19"
-         },
-         "si 201":
-         {
-            "term":"Only in 3.19"
-         },
-         "si206":
-         {
-            "term":"Only in 3.19"
-         },
-         "si 206":
-         {
-            "term":"Only in 3.19"
-         },
-         "si721":
-         {
-            "term":"Only in 3.19"
-         },
-         "si 721":
-         {
-            "term":"Only in 3.19"
-         }
-      }
-   },
-   "17.00.25":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Udtalelser om elever [udgår 2024]'. 3.18: 'Udtalelser om elever'"
-      }
-   },
-   "17.02.09":
-   {
-      "terms":
-      {
-         "obligatorisk sprogvurdering":
-         {
-            "term":"Only in 3.19"
-         },
-         "sproglig vurdering af elev":
-         {
-            "term":"Only in 3.19"
-         }
-      }
-   },
-   "17.04.02":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Skolehaver / grøn skole'. 3.18: 'Skolehaver'"
-      }
-   },
-   "17.04.03":
-   {
-      "terms":
-      {
-         "grønt flag":
-         {
-            "term":"Only in 3.19"
-         },
-         "grøn skole":
-         {
-            "term":"Only in 3.19"
-         },
-         "grønt flag-rapport":
-         {
-            "term":"Only in 3.19"
-         },
-         "grønt råd":
-         {
-            "term":"Only in 3.19"
-         },
-         "grøn vision":
-         {
-            "term":"Only in 3.19"
-         },
-         "grøn handleplan":
-         {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
@@ -233,1553 +292,1214 @@
    {
       "terms":
       {
-         "udtalelse fra børnehave til skole":
+         "modtagelsesklasse":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "18.01.11":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Optagelse og alderskriterier, ungdomsskoler'. 3.18: 'Optagelse og alderskriterier'"
-      }
-   },
-   "18.10.06":
+   "17.20.04":
    {
       "terms":
       {
-         "e-sport":
+         "overgang til skole":
          {
-            "term":"Only in 3.19"
-         },
-         "dans":
-         {
-            "term":"Only in 3.19"
-         },
-         "outdoor":
-         {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "18.12.02":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Medlemslister, klubvirksomhed'. 3.18: 'Medlemslister'"
-      }
-   },
-   "21.01.10":
+   "17.27.00":
    {
       "terms":
       {
-         "noder":
+         "uu vejledning":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "17.27.12":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Vejledning i grundskolen'. 3.19: 'Vejledningsaktiviteter'"
+      },
+      "terms":
+      {
+         "særlige undervisningsforløb":
+         {
+            "term":"Only in 3.20"
+         },
+         "optagelse.dk":
+         {
+            "term":"Only in 3.20"
+         },
+         "uddannelsesguiden":
+         {
+            "term":"Only in 3.20"
+         },
+         "evejledning":
+         {
+            "term":"Only in 3.20"
+         },
+         "brobygningsforløb":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "17.27.16":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Uddannelsesplaner [udgår 2025]'. 3.19: 'Uddannelsesplaner'"
+      }
+   },
+   "17.27.17":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Vurdering af uddannelsesparathed [udgår 2025]'. 3.19: 'Vurdering af uddannelsesparathed'"
+      }
+   },
+   "23.05.01":
+   {
+      "terms":
+      {
+         "fr305":
+         {
+            "term":"Only in 3.20"
+         },
+         "fr 305":
+         {
+            "term":"Only in 3.20"
+         },
+         "fr125":
          {
             "term":"Only in 3.19"
          },
-         "film":
+         "fr 125":
          {
             "term":"Only in 3.19"
          }
       }
    },
-   "23.25.45":
+   "23.15.20":
    {
       "class":"Only in 3.19"
    },
-   "23.35":
-   {
-      "class":"Only in 3.19"
-   },
-   "23.35.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "23.35.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "25.02.08":
+   "23.25.05":
    {
       "terms":
       {
-         "fritaget for grundskyld":
+         "fr125":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "fr 125":
+         {
+            "term":"Only in 3.20"
          }
       }
    },
-   "25.45.08":
+   "23.30.20":
    {
-      "class":"Only in 3.18"
+      "class":"Only in 3.20"
    },
-   "25.45.12":
+   "25.45.10":
    {
-      "class":"Only in 3.18"
-   },
-   "25.45.16":
-   {
-      "class":"Only in 3.18"
-   },
-   "27.03.26":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Drift af døgninstitutioner for børn og unge med sociale problemer [udgår 2024]'. 3.18: 'Drift af døgninstitutioner for børn og unge med sociale problemer'"
-      }
-   },
-   "27.03.30":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Drift af døgninstitutioner for børn og unge med nedsat fysisk eller psykisk funktionsevne [udgår 2024]'. 3.18: 'Drift af døgninstitutioner for børn og unge med nedsat fysisk eller psykisk funktionsevne'"
-      }
-   },
-   "27.03.34":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Drift af sikrede døgninstitutioner [udgår 2024]'. 3.18: 'Drift af sikrede døgninstitutioner'"
-      }
-   },
-   "27.12.06":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Familieorienteret rådgivning og forebyggende indsatser [udgår 2024]'. 3.18: 'Familieorienteret rådgivning og forebyggende indsatser'"
-      },
       "terms":
       {
-         "bu844":
+         "restancemeddelelse":
          {
-            "term":"Only in 3.18"
+            "term":"Only in 3.20"
          },
-         "bu 844":
+         "fordringshaveraftale":
          {
-            "term":"Only in 3.18"
+            "term":"Only in 3.20"
          }
       }
    },
-   "27.12.08":
+   "27.12.04":
    {
-      "settings":
-      {
-         "title":"3.19: 'Familievejlederordning / overgang til voksenlivet [udgår 2024]'. 3.18: 'Familievejlederordning / overgang til voksenlivet'"
-      }
-   },
-   "27.12.38":
-   {
-      "class":"Only in 3.19"
-   },
-   "27.18":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Særlige tilbud til børn og unge [udgår 2024]'. 3.18: 'Særlige tilbud til børn og unge'"
-      }
-   },
-   "27.18.00":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Særlige tilbud til børn og unge i almindelighed [udgår 2024]'. 3.18: 'Særlige tilbud til børn og unge i almindelighed'"
-      }
-   },
-   "27.18.02":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Udredning og visitation, særlige tilbud til børn og unge [udgår 2024]'. 3.18: 'Udredning og visitation, særlige tilbud til børn og unge'"
-      }
-   },
-   "27.18.12":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Særlige dagtilbud [udgår 2024]'. 3.18: 'Særlige dagtilbud'"
-      }
-   },
-   "27.18.16":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Forældrebestyrelser i særlige dagtilbud [udgår 2024]'. 3.18: 'Forældrebestyrelser i særlige dagtilbud'"
-      }
-   },
-   "27.18.20":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Forældres udførelse af hjælpen i hjemmet [udgår 2024]'. 3.18: 'Forældres udførelse af hjælpen i hjemmet'"
-      }
-   },
-   "27.18.24":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Særlige klubtilbud [udgår 2024]'. 3.18: 'Særlige klubtilbud'"
-      }
-   },
-   "27.21":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Personlig hjælp og ledsagelse, børn og unge [udgår 2024]'. 3.18: 'Personlig hjælp og ledsagelse, børn og unge'"
-      }
-   },
-   "27.21.00":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Personlig hjælp og ledsagelse, børn og unge i almindelighed [udgår 2024]'. 3.18: 'Personlig hjælp og ledsagelse, børn og unge i almindelighed'"
-      }
-   },
-   "27.21.08":
-   {
-      "settings":
-      {
-         "title":"3.19: '15 timers ledsagelse, børn og unge [udgår 2024]'. 3.18: '15 timers ledsagelse, børn og unge'"
-      },
       "terms":
       {
-         "hm301":
+         "den nationale sikkerhedskonsulentordning":
          {
-            "term":"Only in 3.18"
+            "term":"Only in 3.20"
          },
-         "hm 301":
+         "genopdragelsesrejse":
          {
-            "term":"Only in 3.18"
-         },
-         "hm302":
-         {
-            "term":"Only in 3.18"
-         },
-         "hm 302":
-         {
-            "term":"Only in 3.18"
+            "term":"Only in 3.20"
          }
       }
    },
-   "27.21.12":
+   "27.29.35":
+   {
+      "class":"Only in 3.20"
+   },
+   "27.30":
    {
       "settings":
       {
-         "title":"3.19: 'Praktisk, pædagogisk eller anden støtte i hjemmet, børn og unge [udgår 2024]'. 3.18: 'Praktisk, pædagogisk eller anden støtte i hjemmet, børn og unge'"
-      }
-   },
-   "27.21.16":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Aflastningsordninger, børn og unge [udgår 2024]'. 3.18: 'Aflastningsordninger, børn og unge'"
-      }
-   },
-   "27.21.20":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Vedligeholdelsestræning, børn og unge [udgår 2024]'. 3.18: 'Vedligeholdelsestræning, børn og unge'"
-      }
-   },
-   "27.24":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Særlig støtte til børn og unge [udgår 2024]'. 3.18: 'Særlig støtte til børn og unge'"
-      }
-   },
-   "27.24.00":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Særlig støtte til børn og unge i almindelighed [udgår 2024]'. 3.18: 'Særlig støtte til børn og unge i almindelighed'"
-      },
-      "terms":
-      {
-         "bu823":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 823":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu843":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 843":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu906":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 906":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.03":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Børnefaglig undersøgelse [udgår 2024]'. 3.18: 'Børnefaglig undersøgelse'"
-      },
-      "terms":
-      {
-         "bu105":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 105":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.06":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Visitation / handleplaner efter § 140 for børn og unge [udgår 2024]'. 3.18: 'Visitation / handleplaner efter § 140 for børn og unge'"
-      },
-      "terms":
-      {
-         "bu200":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 200":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu205":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 205":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu210":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 210":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu230":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 230":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.09":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Økonomisk støtte til forældremyndighedsindehaveren [udgår 2024]'. 3.18: 'Økonomisk støtte til forældremyndighedsindehaveren'"
-      },
-      "terms":
-      {
-         "bu810":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 810":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.15":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Støtteperson [udgår 2024]'. 3.18: 'Støtteperson'"
-      },
-      "terms":
-      {
-         "bu870":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 870":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.17":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Ungdomskontrakter [udgår 2024]'. 3.18: 'Ungdomskontrakter'"
-      }
-   },
-   "27.24.18":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Ungdomssanktion/koordinator og handleplan for kriminelle unge [udgår 2024]'. 3.18: 'Ungdomssanktion/koordinator og handleplan for kriminelle unge'"
-      },
-      "terms":
-      {
-         "bu851":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 851":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.19":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Bistand til børn og unge ved afhøringer og varetægtsfængslinger [udgår 2024]'. 3.18: 'Bistand til børn og unge ved afhøringer og varetægtsfængslinger'"
-      }
-   },
-   "27.24.20":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Netværkssamråd [udgår 2024]'. 3.18: 'Netværkssamråd'"
-      }
-   },
-   "27.24.21":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Ydelser under døgnophold [udgår 2024]'. 3.18: 'Ydelser under døgnophold'"
-      }
-   },
-   "27.24.24":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Forældrepålæg [udgår 2024]'. 3.18: 'Forældrepålæg'"
-      },
-      "terms":
-      {
-         "bu890":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 890":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.25":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Børne- og ungepålæg [udgår 2024]'. 3.18: 'Børne- og ungepålæg'"
-      },
-      "terms":
-      {
-         "bu891":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 891":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.26":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Tilbud om udslusning til løsladte unge [udgår 2024]'. 3.18: 'Tilbud om udslusning til løsladte unge'"
-      }
-   },
-   "27.24.27":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse uden for hjemmet uden samtykke [udgår 2024]'. 3.18: 'Anbringelse uden for hjemmet uden samtykke'"
-      },
-      "terms":
-      {
-         "bu860":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 860":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu861":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 861":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.24.30":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Lægelig undersøgelse og behandling uden samtykke [udgår 2024]'. 3.18: 'Lægelig undersøgelse og behandling uden samtykke'"
-      }
-   },
-   "27.24.33":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Ankestyrelsens beføjelser uden klage [udgår 2024]'. 3.18: 'Ankestyrelsens beføjelser uden klage'"
-      }
-   },
-   "27.24.36":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Samvær og kontakt, afgørelse om [udgår 2024]'. 3.18: 'Samvær og kontakt, afgørelse om'"
-      }
-   },
-   "27.24.39":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Inddragelse ved foranstaltninger og advokatbistand [udgår 2024]'. 3.18: 'Inddragelse ved foranstaltninger og advokatbistand'"
-      }
-   },
-   "27.24.42":
-   {
-      "class":"Only in 3.18"
-   },
-   "27.24.45":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Underretning / underretningspligt m.v. [udgår 2024]'. 3.18: 'Underretning / underretningspligt m.v.'"
-      },
-      "terms":
-      {
-         "bu735":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 735":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu875":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 875":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu876":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 876":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu877":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 877":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu880":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 880":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu880v":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 880v":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu881":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 881":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.27":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Foranstaltninger efter SEL § 52, særlig støtte [udgår 2024]'. 3.18: 'Foranstaltninger efter SEL § 52, særlig støtte'"
-      }
-   },
-   "27.27.00":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Foranstaltninger efter SEL § 52, særlig støtte i almindelighed [udgår 2024]'. 3.18: 'Foranstaltninger efter SEL § 52, særlig støtte i almindelighed'"
-      },
-      "terms":
-      {
-         "bu801":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 801":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu830":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 830":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu831":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 831":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu840":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 840":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu841":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 841":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu842":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 842":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu845":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 845":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu850":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 850":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu853":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 853":
-         {
-            "term":"Only in 3.18"
-         }
-      }
-   },
-   "27.27.03":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Ophold i dagtilbud, fritidshjem, ungdomsklub, uddannelsessted el.lign. [udgår 2024]'. 3.18: 'Ophold i dagtilbud, fritidshjem, ungdomsklub, uddannelsessted el.lign.'"
-      }
-   },
-   "27.27.06":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Praktisk, pædagogisk eller anden støtte i hjemmet [udgår 2024]'. 3.18: 'Praktisk, pædagogisk eller anden støtte i hjemmet'"
-      }
-   },
-   "27.27.09":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Familiebehandling [udgår 2024]'. 3.18: 'Familiebehandling'"
-      }
-   },
-   "27.27.12":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Døgnophold for både forældremyndighedsindehaveren, barnet eller den unge mv. [udgår 2024]'. 3.18: 'Døgnophold for både forældremyndighedsindehaveren, barnet eller den unge mv.'"
-      }
-   },
-   "27.27.15":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Aflastningsordning [udgår 2024]'. 3.18: 'Aflastningsordning'"
-      }
-   },
-   "27.27.21":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Fast kontaktperson for hele familien [udgår 2024]'. 3.18: 'Fast kontaktperson for hele familien'"
-      }
-   },
-   "27.27.24":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Fast kontaktperson for barnet eller den unge [udgår 2024]'. 3.18: 'Fast kontaktperson for barnet eller den unge'"
-      }
-   },
-   "27.27.26":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelser [fagsystem-emne] [udgår 2024]'. 3.18: 'Anbringelser [fagsystem-emne] [udgår 2023]'"
-      }
-   },
-   "27.27.27":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i åbne døgninstitutioner for børn og unge med sociale adfærdsproblemer [udgår 2024]'. 3.18: 'Anbringelse i åbne døgninstitutioner for børn og unge med sociale adfærdsproblemer'"
-      }
-   },
-   "27.27.30":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i almene plejefamilier [udgår 2024]'. 3.18: 'Anbringelse i almene plejefamilier'"
-      }
-   },
-   "27.27.31":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i forstærkede plejefamilier [udgår 2024]'. 3.18: 'Anbringelse i forstærkede plejefamilier'"
-      }
-   },
-   "27.27.32":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i specialiserede plejefamilier [udgår 2024]'. 3.18: 'Anbringelse i specialiserede plejefamilier'"
-      }
-   },
-   "27.27.33":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i netværksplejefamilie [udgår 2024]'. 3.18: 'Anbringelse i netværksplejefamilie'"
-      }
-   },
-   "27.27.36":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse på egne værelser, kollegier eller kollegielignende opholdssteder [udgår 2024]'. 3.18: 'Anbringelse på egne værelser, kollegier eller kollegielignende opholdssteder'"
-      }
-   },
-   "27.27.39":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse på kost- eller efterskole [udgår 2024]'. 3.18: 'Anbringelse på kost- eller efterskole'"
-      }
-   },
-   "27.27.42":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse på opholdssteder for børn og unge [udgår 2024]'. 3.18: 'Anbringelse på opholdssteder for børn og unge'"
-      }
-   },
-   "27.27.45":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i døgninstitutioner, betydelig og varig nedsat fysisk eller psykisk funktionsevne [udgår 2024]'. 3.18: 'Anbringelse i døgninstitutioner, betydelig og varig nedsat fysisk eller psykisk funktionsevne'"
-      }
-   },
-   "27.27.48":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anbringelse i sikrede døgninstitutioner [udgår 2024]'. 3.18: 'Anbringelse i sikrede døgninstitutioner'"
-      }
-   },
-   "27.27.51":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Formidling af praktiktilbud hos en offentlig eller privat arbejdsgiver for den unge [udgår 2024]'. 3.18: 'Formidling af praktiktilbud hos en offentlig eller privat arbejdsgiver for den unge'"
-      }
-   },
-   "27.27.54":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Anden hjælp, rådgivning, behandling og praktisk og pædagogisk støtte [udgår 2024]'. 3.18: 'Anden hjælp, rådgivning, behandling og praktisk og pædagogisk støtte'"
-      }
-   },
-   "27.27.64":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Tilbud til unge fra 18 til 22 år efter SEL § 76, stk. 3 [fagsystem-emne] [udgår 2024]'. 3.18: 'Tilbud til unge fra 18 til 22 år efter SEL § 76, stk. 3 [fagsystem-emne] [udgår 2023]'"
+         "title":"3.20: 'Anbringelsessteder, godkendelse, opfølgning og tilsyn [udgår 2024]'. 3.19: 'Anbringelsessteder, godkendelse, opfølgning og tilsyn'"
       }
    },
    "27.30.00":
    {
-      "terms":
+      "settings":
       {
-         "bu701":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 701":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu703":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 703":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu732":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 732":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu739":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 739":
-         {
-            "term":"Only in 3.18"
-         }
+         "title":"3.20: 'Anbringelsessteder, godkendelse, opfølgning og tilsyn i almindelighed [udgår 2024]'. 3.19: 'Anbringelsessteder, godkendelse, opfølgning og tilsyn i almindelighed'"
       }
    },
    "27.30.04":
    {
-      "terms":
+      "settings":
       {
-         "bu705":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 705":
-         {
-            "term":"Only in 3.18"
-         }
+         "title":"3.20: 'Plejefamilier, godkendelse mv. [udgår 2024]'. 3.19: 'Plejefamilier, godkendelse mv.'"
+      }
+   },
+   "27.30.08":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Netværksplejefamilier, godkendelse mv. [udgår 2024]'. 3.19: 'Netværksplejefamilier, godkendelse mv.'"
+      }
+   },
+   "27.30.12":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Egne værelser, kollegier og kollegielignende opholdssteder, godkendelse [udgår 2024]'. 3.19: 'Egne værelser, kollegier og kollegielignende opholdssteder, godkendelse'"
+      }
+   },
+   "27.30.16":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Døgntilbud for børn og unge, godkendelse m.v. [udgår 2024]'. 3.19: 'Døgntilbud for børn og unge, godkendelse m.v.'"
       }
    },
    "27.30.20":
    {
-      "terms":
+      "settings":
       {
-         "bu925":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 925":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu925b":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 925b":
-         {
-            "term":"Only in 3.18"
-         }
+         "title":"3.20: 'Vederlag, godtgørelse, betaling vedr. døgninstitutioner, netværks- og plejefamilier m.v. [udgår 2024]'. 3.19: 'Vederlag, godtgørelse, betaling vedr. døgninstitutioner, netværks- og plejefamilier m.v.'"
+      }
+   },
+   "27.33":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Privat døgnpleje [udgår 2024]'. 3.19: 'Privat døgnpleje'"
       }
    },
    "27.33.00":
    {
-      "terms":
+      "settings":
       {
-         "bu731":
-         {
-            "term":"Only in 3.18"
-         },
-         "bu 731":
-         {
-            "term":"Only in 3.18"
-         }
+         "title":"3.20: 'Privat døgnpleje i almindelighed [udgår 2024]'. 3.19: 'Privat døgnpleje i almindelighed'"
       }
    },
    "27.33.04":
    {
+      "settings":
+      {
+         "title":"3.20: 'Privat familiepleje, plejetilladelse [udgår 2024]'. 3.19: 'Privat familiepleje, plejetilladelse'"
+      }
+   },
+   "27.33.08":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Privat døgnplejehjem, tilladelse m.v. [udgår 2024]'. 3.19: 'Privat døgnplejehjem, tilladelse m.v.'"
+      }
+   },
+   "27.42.00":
+   {
       "terms":
       {
-         "bu702":
+         "dødsboskifte":
          {
-            "term":"Only in 3.18"
-         },
-         "bu 702":
-         {
-            "term":"Only in 3.18"
+            "term":"Only in 3.20"
          }
       }
    },
    "27.51.04":
    {
+      "settings":
+      {
+         "title":"3.20: 'Social behandling for stofmisbrug'. 3.19: 'Behandlingstilbud for stofmisbrugere'"
+      }
+   },
+   "27.60.04":
+   {
       "terms":
       {
-         "helhedsorienteret afdækning":
+         "ortose":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "inkontinenshjælpemidler":
+         {
+            "term":"Only in 3.20"
+         },
+         "inkontinenshjælpemiddel":
+         {
+            "term":"Only in 3.20"
+         },
+         "inkontinenshjælpemidlet":
+         {
+            "term":"Only in 3.20"
          }
       }
+   },
+   "27.60.08":
+   {
+      "terms":
+      {
+         "kabinescooter":
+         {
+            "term":"Only in 3.20"
+         },
+         "glidebræt":
+         {
+            "term":"Only in 3.20"
+         },
+         "førerhund":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "27.60.11":
+   {
+      "class":"Only in 3.20"
    },
    "27.60.12":
    {
-      "terms":
+      "settings":
       {
-         "tyngdedyne":
-         {
-            "term":"Only in 3.19"
-         }
+         "title":"3.20: 'Hjælpemidler (ikke kropsbårne eller mobilitetshjælpemidler) [udgår 2024]'. 3.19: 'Hjælpemidler (ikke kropsbårne eller mobilitetshjælpemidler)'"
       }
    },
-   "27.69.14":
+   "27.60.16":
    {
       "terms":
       {
-         "uenighed om handleforpligtigelse":
+         "hvilestol":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          },
-         "mellemkommunal uenighed":
+         "el-scooter":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "27.69.60":
+   "27.60.20":
    {
       "terms":
       {
-         "national adoption":
+         "hm012b":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "hm 012b":
+         {
+            "term":"Only in 3.20"
          }
       }
    },
-   "28.09.28":
+   "27.60.24":
    {
       "terms":
       {
-         "grønne spirer flaget":
+         "trappelift":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "28.70":
+   "27.66.08":
+   {
+      "terms":
+      {
+         "låsning og sikring af":
+         {
+            "term":"Only in 3.20"
+         },
+         "det socialfaglige nævn vedrørende magtanvendelse":
+         {
+            "term":"Only in 3.20"
+         },
+         "adgang til en beboers bolig":
+         {
+            "term":"Only in 3.20"
+         },
+         "særlige døråbnere":
+         {
+            "term":"Only in 3.20"
+         },
+         "særlig døråbner":
+         {
+            "term":"Only in 3.20"
+         },
+         "stofsele":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "27.66.12":
+   {
+      "terms":
+      {
+         "epilepsialarm":
+         {
+            "term":"Only in 3.20"
+         },
+         "anfaldsalarm":
+         {
+            "term":"Only in 3.20"
+         },
+         "anfaldsovervågning":
+         {
+            "term":"Only in 3.20"
+         },
+         "det socialfaglige nævn vedrørende magtanvendelse":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "27.69.36":
    {
       "settings":
       {
-         "title":"3.19: 'Venteliste, børn og unge (0-18 år) [fagsystem-emne] [udgår 2024]'. 3.18: 'Venteliste, børn og unge (0-18 år) [fagsystem-emne] [udgår 2023]'"
+         "title":"3.20: 'Kriminalpræventivt tilsyn med udviklingshæmmede'. 3.19: 'Tilsyn med kriminelle udviklingshæmmede'"
       }
    },
-   "28.70.00":
+   "27.69.56":
    {
       "settings":
       {
-         "title":"3.19: 'Venteliste, børn og unge (0-18 år) i almindelighed [fagsystem-emne] [udgår 2024]'. 3.18: 'Venteliste, børn og unge (0-18 år) i almindelighed [fagsystem-emne] [udgår 2023]'"
+         "title":"3.20: 'Værgemål [udgår 2025]'. 3.19: 'Værgemål'"
       }
    },
-   "28.77.08":
+   "29.09.08":
    {
       "terms":
       {
-         "dt235_2011":
+         "ernæringsindsats":
          {
-            "term":"Only in 3.19"
-         },
-         "dt 235_2011":
-         {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
-   },
-   "28.77.16":
-   {
-      "class":"Only in 3.18"
-   },
-   "28.77.20":
-   {
-      "class":"Only in 3.18"
-   },
-   "28.77.24":
-   {
-      "class":"Only in 3.18"
    },
    "29.09.20":
    {
       "terms":
       {
-         "behandlingsstedsregistret":
+         "legionella":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "29.12.00":
+   {
+      "terms":
+      {
+         "medicingivning":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "29.18":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Kommunal sygepleje'. 3.19: 'Sygepleje'"
+      }
+   },
+   "29.18.00":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Kommunal sygepleje i almindelighed'. 3.19: 'Sygepleje i almindelighed'"
+      },
+      "terms":
+      {
+         "akutplads":
+         {
+            "term":"Only in 3.20"
+         },
+         "akutteam":
+         {
+            "term":"Only in 3.20"
+         },
+         "akutfunktion":
+         {
+            "term":"Only in 3.20"
+         },
+         "skifteretsattest":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "29.24.16":
+   {
+      "class":"Only in 3.20"
+   },
+   "32.21.24":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Hjælp til flytning'. 3.19: 'Flyttehjælp'"
+      },
+      "terms":
+      {
+         "flytteudgift":
+         {
+            "term":"Only in 3.20"
+         },
+         "rejseudgift":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "32.21.25":
+   {
+      "class":"Only in 3.20"
+   },
+   "34.10.00":
+   {
+      "terms":
+      {
+         "bu200":
+         {
+            "term":"Only in 3.20"
+         },
+         "bu 200":
+         {
+            "term":"Only in 3.20"
+         },
+         "den nationale sikkerhedskonsulentordning":
+         {
+            "term":"Only in 3.20"
+         },
+         "koordinationsenheden mod genopdragelsesrejser og ufrivillige udlandsophold":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.10.10":
+   {
+      "terms":
+      {
+         "tvangsægteskab":
+         {
+            "term":"Only in 3.20"
+         },
+         "frihedsberøvelse":
+         {
+            "term":"Only in 3.20"
+         },
+         "bortførelse":
+         {
+            "term":"Only in 3.20"
+         },
+         "genopdragelsesrejse":
+         {
+            "term":"Only in 3.20"
+         },
+         "Æresrelaterede konflikter":
+         {
+            "term":"Only in 3.20"
+         },
+         "Æresrelateret konflikt":
+         {
+            "term":"Only in 3.20"
+         },
+         "negativ social kontrol":
+         {
+            "term":"Only in 3.20"
+         },
+         "den nationale sikkerhedskonsulentordning":
+         {
+            "term":"Only in 3.20"
+         },
+         "koordinationsenheden mod genopdragelsesrejser":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.10.30":
+   {
+      "terms":
+      {
+         "underretning":
+         {
+            "settings":
+            {
+               "weight":"3.20: '1000'. 3.19: '5'"
+            }
+         },
+         "underretningspligt":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.15.00":
+   {
+      "terms":
+      {
+         "bu844":
          {
             "term":"Only in 3.19"
          },
-         "registreringspligt":
+         "bu 844":
          {
             "term":"Only in 3.19"
          }
       }
    },
-   "29.24.08":
+   "34.15.05":
    {
       "terms":
       {
-         "rusmiddelsbehandling":
+         "bu844":
+         {
+            "term":"Only in 3.20"
+         },
+         "bu 844":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.15.25":
+   {
+      "terms":
+      {
+         "barnets lov § 35":
+         {
+            "term":"Only in 3.20"
+         },
+         "barnets lov § 36":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.25.00":
+   {
+      "terms":
+      {
+         "bu220":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 220":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu230":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 230":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu830":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 830":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu831":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 831":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu842":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 842":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu860":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 860":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu861":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 861":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "barnets lov § 188":
+         {
+            "term":"Only in 3.20"
+         },
+         "bu200":
+         {
+            "term":"Only in 3.19"
+         },
+         "bu 200":
          {
             "term":"Only in 3.19"
          }
       }
    },
-   "32.18.04":
+   "34.30.00":
    {
       "terms":
       {
-         "befordring":
+         "bu701":
          {
-            "term":"Only in 3.19"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
-         "beklædning":
+         "bu 701":
          {
-            "term":"Only in 3.19"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
-         "vask":
+         "bu702":
          {
-            "term":"Only in 3.19"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
-         "kurser":
+         "bu 702":
          {
-            "term":"Only in 3.19"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
+         "bu703":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 703":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu705":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 705":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu731":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 731":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu735":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 735":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu739":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 739":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         }
+      }
+   },
+   "34.30.10":
+   {
+      "terms":
+      {
+         "plejeaftale":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.45.00":
+   {
+      "terms":
+      {
+         "funktionsnedsættelse":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "gratis rådgivning":
+         {
+            "term":"Only in 3.20"
+         },
+         "gratis undersøgelse":
+         {
+            "term":"Only in 3.20"
+         },
+         "gratis behandling":
+         {
+            "term":"Only in 3.20"
+         },
+         "psykologsamtale":
+         {
+            "term":"Only in 3.20"
+         },
+         "familiebehandling":
+         {
+            "term":"Only in 3.20"
+         },
+         "fysioterapeutisk behandling":
+         {
+            "term":"Only in 3.20"
+         },
+         "ergoterapeutisk behandling":
+         {
+            "term":"Only in 3.20"
+         },
+         "mestringskurser":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "34.45.30":
+   {
+      "terms":
+      {
          "bu900":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 900":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu901":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 901":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu902":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 902":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          }
       }
    },
-   "32.18.12":
+   "34.45.35":
    {
       "terms":
       {
          "bu920":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 920":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu925":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
+         },
+         "bu 925":
+         {
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu925a":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 925a":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu925a_2012":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 925a_2012":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu930":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          },
          "bu 930":
          {
-            "term":"Only in 3.18"
+            "settings":
+            {
+               "requiredOr":"3.20: '1'. 3.19: '0'"
+            }
          }
       }
-   },
-   "32.24.40":
-   {
-      "class":"Only in 3.18"
-   },
-   "32.30.05":
-   {
-      "class":"Only in 3.19"
-   },
-   "32.32":
-   {
-      "class":"Only in 3.18"
-   },
-   "32.32.00":
-   {
-      "class":"Only in 3.18"
-   },
-   "34.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.00.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.05":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.05.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.05.05":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.05.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.05.15":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.05.20":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.10.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.10.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.10.30":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.05":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.25":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.45":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.49":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.53":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.57":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.61":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.15.65":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.20":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.20.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.20.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.20.20":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.25":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.25.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.30":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.30.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.30.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.30.20":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.30.30":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.30.40":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.40":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.40.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.40.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.40.15":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.10":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.20":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.30":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.35":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.40":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.45":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.50":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.45.55":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.50":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.50.00":
-   {
-      "class":"Only in 3.19"
-   },
-   "34.50.15":
-   {
-      "class":"Only in 3.19"
    },
    "34.50.20":
    {
-      "class":"Only in 3.19"
-   },
-   "81.07.02":
-   {
       "terms":
       {
-         "vejledning af studerende":
+         "negativ social kontrol":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "Æresrelateret konflikt":
+         {
+            "term":"Only in 3.20"
+         },
+         "den nationale sikkerhedskonsulentordning":
+         {
+            "term":"Only in 3.20"
          }
       }
    },
-   "81.10.00":
+   "81.28.00":
    {
       "terms":
       {
-         "arbejdstid":
+         "bekymringssamtale":
          {
-            "settings":
-            {
-               "requiredOr":"3.19: '1'. 3.18: '0'"
-            }
-         },
-         "afspadsering":
-         {
-            "settings":
-            {
-               "requiredOr":"3.19: '1'. 3.18: '0'"
-            }
-         },
-         "overarbejde":
-         {
-            "settings":
-            {
-               "requiredOr":"3.19: '1'. 3.18: '0'"
-            }
-         },
-         "vagtplanlægning":
-         {
-            "term":"Only in 3.19"
-         },
-         "planlægning af vagter":
-         {
-            "term":"Only in 3.19"
-         },
-         "vagtskema":
-         {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    },
-   "81.16.04":
-   {
-      "class":"Only in 3.19"
-   },
-   "82.05":
+   "82.04":
    {
       "settings":
       {
-         "title":"3.19: 'Udsmykning af kommunens bygninger og lokaler'. 3.18: 'Udsmykning af bygninger og lokaler'"
+         "title":"3.20: 'Indretning af kommunens arbejdslokaler og arbejdspladser'. 3.19: 'Indretning af arbejdslokaler og arbejdspladser'"
       }
    },
-   "82.05.00":
+   "82.04.00":
    {
       "settings":
       {
-         "title":"3.19: 'Udsmykning af kommunens bygninger og lokaler i almindelighed'. 3.18: 'Udsmykning af bygninger og lokaler i almindelighed'"
+         "title":"3.20: 'Indretning af kommunens arbejdslokaler og arbejdspladser i almindelighed'. 3.19: 'Indretning af arbejdslokaler og arbejdspladser i almindelighed'"
       }
    },
-   "82.07":
+   "82.13.20":
+   {
+      "class":"Only in 3.20"
+   },
+   "82.25":
    {
       "settings":
       {
-         "title":"3.19: 'Vedligeholdelse af kommunens ejendomme'. 3.18: 'Vedligeholdelse af ejendomme'"
+         "title":"3.20: 'Flytninger/lokalefordeling, kommunens ejendomme'. 3.19: 'Flytninger/lokalefordeling'"
       }
    },
-   "82.07.00":
+   "82.25.00":
    {
       "settings":
       {
-         "title":"3.19: 'Vedligeholdelse af kommunens ejendomme i almindelighed'. 3.18: 'Vedligeholdelse af ejendomme i almindelighed'"
+         "title":"3.20: 'Flytninger/lokalefordeling, kommunens ejendomme i almindelighed'. 3.19: 'Flytninger/lokalefordeling i almindelighed'"
       }
    },
-   "82.19":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Miljømæssige bygningsforbedringer, kommunens ejendomme'. 3.18: 'Miljømæssige bygningsforbedringer (fx asbest, karlit)'"
-      }
-   },
-   "82.19.00":
-   {
-      "settings":
-      {
-         "title":"3.19: 'Miljømæssige bygningsforbedringer, kommunens ejendomme i almindelighed'. 3.18: 'Miljømæssige bygningsforbedringer (fx asbest, karlit) i almindelighed'"
-      }
-   },
-   "83.11.05":
+   "84.00.00":
    {
       "terms":
       {
-         "periodisk syn":
+         "po105":
          {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
+         },
+         "po 105":
+         {
+            "term":"Only in 3.20"
          }
       }
    },
-   "85.10.30":
+   "84.01.00":
+   {
+      "terms":
+      {
+         "po101":
+         {
+            "term":"Only in 3.20"
+         },
+         "po 101":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "84.07.00":
+   {
+      "terms":
+      {
+         "ep008a":
+         {
+            "term":"Only in 3.20"
+         },
+         "ep 008a":
+         {
+            "term":"Only in 3.20"
+         },
+         "ep008b":
+         {
+            "term":"Only in 3.20"
+         },
+         "ep 008b":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "85.02.25":
+   {
+      "terms":
+      {
+         "iot":
+         {
+            "term":"Only in 3.20"
+         },
+         "lora":
+         {
+            "term":"Only in 3.20"
+         },
+         "internet of things":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "85.08.02":
+   {
+      "terms":
+      {
+         "retrospektiv skanning":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "85.08.20":
+   {
+      "terms":
+      {
+         "sikkerhedsmakulering":
+         {
+            "term":"Only in 3.20"
+         }
+      }
+   },
+   "85.10":
    {
       "settings":
       {
-         "title":"3.19: 'Behandling af billeder, databehandling [udgår 2024]'. 3.18: 'Behandling af billeder, databehandling'"
+         "title":"3.20: 'Databeskyttelse'. 3.19: 'Behandling af personoplysninger'"
       }
    },
-   "85.11.04":
+   "85.10.00":
    {
-      "terms":
+      "settings":
       {
-         "udfasning":
-         {
-            "term":"Only in 3.19"
-         },
-         "nedlukning":
-         {
-            "term":"Only in 3.19"
-         }
+         "title":"3.20: 'Databeskyttelse i almindelighed'. 3.19: 'Behandling af personoplysninger i almindelighed'"
       }
    },
-   "85.11.06":
+   "85.11.20":
    {
-      "terms":
+      "settings":
       {
-         "udfasning":
-         {
-            "term":"Only in 3.19"
-         },
-         "nedlukning":
-         {
-            "term":"Only in 3.19"
-         }
+         "title":"3.20: 'It-værktøjer'. 3.19: 'Programmel/software'"
       }
    },
-   "85.15.25":
+   "85.15.70":
    {
-      "terms":
+      "settings":
       {
-         "registersikkerhed":
-         {
-            "term":"Only in 3.19"
-         }
+         "title":"3.20: 'Papirkurv (fejl- og testsager)'. 3.19: 'Papirkurv'"
       }
    },
    "87.00.05":
    {
-      "settings":
-      {
-         "title":"3.19: 'Arbejdspladsvurdering [udgår 2024]'. 3.18: 'Arbejdspladsvurdering'"
-      }
-   },
-   "87.05.10":
-   {
       "class":"Only in 3.19"
    },
-   "87.15.00":
+   "87.20":
    {
+      "settings":
+      {
+         "title":"3.20: 'Røg- og nikotinfri miljøer'. 3.19: 'Røgfri miljøer'"
+      }
+   },
+   "87.20.00":
+   {
+      "settings":
+      {
+         "title":"3.20: 'Røg- og nikotinfri miljøer i almindelighed'. 3.19: 'Røgfri miljøer i almindelighed'"
+      },
       "terms":
       {
-         "psykisk arbejdsmiljø":
+         "nikotinfri miljøer":
          {
-            "settings":
-            {
-               "requiredOr":"3.19: '1'. 3.18: '0'"
-            }
+            "term":"Only in 3.20"
          },
-         "psykologisk tryghed":
+         "nikotinfrit miljø":
          {
-            "term":"Only in 3.19"
-         },
-         "arbejdsmiljø":
-         {
-            "term":"Only in 3.19"
+            "term":"Only in 3.20"
          }
       }
    }
