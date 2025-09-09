@@ -35,7 +35,7 @@ Indeholder selve OS2KLE i JSON format.
 
 ### OS2KLE.txt
 
-Indeholder forsimplet OS2KLE i TXT format. Filen kan bruges sammen med en chatbot. BEMÆRK: Alle resultater fra en charbot skal faktacheckes. Hvis du bruger en cloud-chatbot, skal du FJERNE ALLE PERSONDATA fra din tekst.
+Indeholder forsimplet OS2KLE i TXT format. Filen kan bruges sammen med en chatbot. BEMÆRK: Alle resultater fra en chatbot skal faktacheckes. Hvis du bruger en cloud-chatbot, skal du FJERNE ALLE PERSONDATA fra din tekst.
 
 ### change.json
 
@@ -46,5 +46,6 @@ Indeholder en oversigt over ændringerne i forhold til forrige version. Filen er
 Er en stand-alone HTML-side, som kan vise change.json på en pæn og letlæselig måde i en browser.
 
 change.json skal ligge i samme folder som view_changes.html.
+
 
 
