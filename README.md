@@ -10,7 +10,10 @@ All source code in this and the underlying directories is subject to the terms o
 
 ## Beskrivelse
 
-OS2KLE er et maskinlæsbar KLE-datasæt, som sammen med en motor (for eksempel Open Source biblioteket https://github.com/TaxonDK/TaxonClassifierLib) gør, at dokumenter automatisk kan opmærkes efter KLE. Motoren, som skal anvendes sammen med datasættet, kan være Taxon Classifier eller f.eks. en egenudviklet motor. 
+OS2KLE er et maskinlæsbar KLE-datasæt, som sammen med en motor gør, at dokumenter automatisk kan opmærkes efter KLE. Motoren, som skal anvendes sammen med datasættet, kan være Open Source biblioteket Taxon Classifier (https://github.com/TaxonDK/TaxonClassifierLib) eller en egenudviklet motor.
+
+Filen OS2KLE.txt kan bruges sammen med en chatbot. Den kan indgå i jeres RAG eller bruges direkte i en chatbot vedat uploade filen og derefter prompte chatbot'ten i forhold til filen.
+BEMÆRK: Alle resultater fra en chatbot skal faktacheckes. Hvis du bruger en cloud-chatbot, skal du FJERNE ALLE PERSONDATA fra din tekst.
 
 ## Anvendelse
 OS2KLE kan f.eks. bruges til: 
@@ -35,7 +38,7 @@ Indeholder selve OS2KLE i JSON format.
 
 ### OS2KLE.txt
 
-Indeholder forsimplet OS2KLE i TXT format. Filen kan bruges sammen med en chatbot. BEMÆRK: Alle resultater fra en chatbot skal faktacheckes. Hvis du bruger en cloud-chatbot, skal du FJERNE ALLE PERSONDATA fra din tekst.
+Indeholder forsimplet OS2KLE i TXT format.
 
 ### change.json
 
@@ -46,6 +49,7 @@ Indeholder en oversigt over ændringerne i forhold til forrige version. Filen er
 Er en stand-alone HTML-side, som kan vise change.json på en pæn og letlæselig måde i en browser.
 
 change.json skal ligge i samme folder som view_changes.html.
+
 
 
 
