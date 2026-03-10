@@ -1,567 +1,2187 @@
 {
-   "00.07.02":
+   "00.05.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Gaver til og fra kommunen / institutionen'. 3.22: 'Gaver til og fra kommunen/institutionen'"
+      }
+   },
+   "00.05.11":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Besøg til og fra kommunen / modtagelse af gæster'. 3.22: 'Besøg til og fra kommunen/modtagelse af gæster'"
+      }
+   },
+   "00.14.00":
    {
       "terms":
       {
-         "videreformidling":
+         "orientering af udenlandske borgere om danske forhold":
          {
-            "term":"Only in 3.22"
-         },
-         "videresendelse":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "01.02.05":
+   "00.15.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Decentralisering / selvforvaltning'. 3.22: 'Decentralisering/selvforvaltning'"
+      }
+   },
+   "00.17":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommunalt / tværsektorielt samarbejde'. 3.22: 'Kommunalt/tværsektorielt samarbejde'"
+      }
+   },
+   "00.17.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommunalt / tværsektorielt samarbejde i almindelighed'. 3.22: 'Kommunalt/tværsektorielt samarbejde i almindelighed'"
+      }
+   },
+   "00.18.04":
    {
       "terms":
       {
-         "byhave":
+         "ny sundhedsstruktur":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "indgåelse af delingsaftaler":
+         {
+            "term":"Only in 3.23"
+         },
+         "sundhedsreformen":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
-   "01.18.00":
+   "00.20":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommunens / institutionens historie, våben mv.'. 3.22: 'Kommunens/institutionens historie, våben mv.'"
+      }
+   },
+   "00.20.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommunens / institutionens historie, våben mv. i almindelighed'. 3.22: 'Kommunens/institutionens historie, våben mv. i almindelighed'"
+      }
+   },
+   "00.22.00":
    {
       "terms":
       {
-         "vandrammedirektiv":
+         "sundhedsråd":
          {
-            "term":"Only in 3.22"
-         },
-         "kvælstofindsatsbehov":
-         {
-            "term":"Only in 3.22"
-         },
-         "nærringsstoftilførsel":
-         {
-            "term":"Only in 3.22"
-         },
-         "sgav":
-         {
-            "term":"Only in 3.22"
-         },
-         "styrelsen for grøn arealomlægning og vandmiljø":
-         {
-            "term":"Only in 3.22"
-         },
-         "vandplanlægning":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
+      }
+   },
+   "00.30.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Lånebegrænsninger / lånerammer'. 3.22: 'Lånebegrænsninger/rammer'"
+      }
+   },
+   "00.30.10":
+   {
+      "terms":
+      {
+         "selvbudgettering":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "01.05.09":
+   {
+      "terms":
+      {
+         "birkemus":
+         {
+            "term":"Only in 3.23"
+         },
+         "flodperlemusling":
+         {
+            "term":"Only in 3.23"
+         },
+         "hasselmus":
+         {
+            "term":"Only in 3.23"
+         },
+         "rundmunde":
+         {
+            "term":"Only in 3.23"
+         },
+         "småflagermus":
+         {
+            "term":"Only in 3.23"
+         },
+         "vinbjergsnegl":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "01.11.25":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Bygningsforbedringsudvalgets organisering'. 3.22: 'Bygningsforbedringsudvalg, opbygning af'"
+      }
+   },
+   "01.11.35":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Boligkommissionens organisering'. 3.22: 'Boligkommission, opbygning af'"
       }
    },
    "01.18.10":
    {
       "terms":
       {
-         "arealomlægningsplan":
+         "kvælstofvådområdeprojekt":
          {
-            "term":"Only in 3.22"
-         },
-         "arealomlægning":
-         {
-            "term":"Only in 3.22"
-         },
-         "lavbundsareal":
-         {
-            "term":"Only in 3.22"
-         },
-         "vp3ii":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "01.18.15":
-   {
-      "class":"Only in 3.22"
-   },
-   "01.18.20":
-   {
-      "class":"Only in 3.22"
-   },
    "01.18.25":
    {
-      "class":"Only in 3.22"
+      "terms":
+      {
+         "kystvande":
+         {
+            "term":"Only in 3.23"
+         }
+      }
    },
-   "03.09.07":
+   "01.30":
    {
       "settings":
       {
-         "title":"3.22: 'Huslejefastsættelse efter lejelovens § 19, stk. 1'. 3.21: 'Huslejefastsættelse efter LL § 19, stk. 1'"
+         "title":"3.23: 'Klimaindsats og fremme af vedvarende energi'. 3.22: 'Klimaindsats'"
+      }
+   },
+   "01.30.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Klimaindsats og fremme af vedvarende energi i almindelighed'. 3.22: 'Klimaindsats i almindelighed'"
+      }
+   },
+   "01.30.15":
+   {
+      "class":"Only in 3.23"
+   },
+   "01.30.20":
+   {
+      "class":"Only in 3.23"
+   },
+   "02.00.20":
+   {
+      "terms":
+      {
+         "by305":
+         {
+            "term":"Only in 3.23"
+         },
+         "by 305":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "02.34.02":
+   {
+      "terms":
+      {
+         "byggeansøgning":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "03.09.13":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.09.18":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.09.29":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.09.30":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.09.31":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.09.32":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.09.52":
+   {
+      "class":"Only in 3.22"
+   },
+   "03.10.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Anvisningsret / rådighed over almene boliger'. 3.22: 'Anvisningsret/rådighed over almene boliger'"
+      }
+   },
+   "04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Parker, fritids- / idrætsanlæg og landskabspleje mv.'. 3.22: 'Parker, fritids-/idrætsanlæg og landskabspleje mv.'"
+      }
+   },
+   "04.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Parker, fritids- / idrætsanlæg og landskabspleje'. 3.22: 'Parker, fritids-/idrætsanlæg og landskabspleje'"
+      }
+   },
+   "04.00.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Parker, fritids- / idrætsanlæg og landskabspleje i almindelighed'. 3.22: 'Parker, fritids-/idrætsanlæg og landskabspleje i almindelighed'"
+      }
+   },
+   "04.01.14":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udlån / benyttelse af parker og anlæg'. 3.22: 'Udlån/benyttelse af parker og anlæg'"
+      }
+   },
+   "04.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Haller / indendørsanlæg'. 3.22: 'Haller/indendørsanlæg'"
+      }
+   },
+   "04.04.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Haller / indendørsanlæg i almindelighed'. 3.22: 'Haller/indendørsanlæg i almindelighed'"
       }
    },
    "04.05":
    {
-      "settings":
-      {
-         "title":"3.22: 'Hundetoiletter [udgår 2025]'. 3.21: 'Hundetoiletter'"
-      }
+      "class":"Only in 3.22"
    },
    "04.05.00":
    {
+      "class":"Only in 3.22"
+   },
+   "04.08.14":
+   {
       "settings":
       {
-         "title":"3.22: 'Hundetoiletter i almindelighed [udgår 2025]'. 3.21: 'Hundetoiletter i almindelighed'"
+         "title":"3.23: 'Udlån / benyttelse af udendørsanlæg'. 3.22: 'Udlån/benyttelse af udendørsanlæg'"
       }
    },
-   "05.13.00":
+   "04.10.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udlån / benyttelse af skove'. 3.22: 'Udlån/benyttelse af skove'"
+      }
+   },
+   "04.10.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Pleje / hugst af skove'. 3.22: 'Pleje/hugst af skove'"
+      }
+   },
+   "04.11.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udlån / benyttelse af strande'. 3.22: 'Udlån/benyttelse af strande'"
+      }
+   },
+   "04.11.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Renholdelse / strandrensning / vedligeholdelse af strande'. 3.22: 'Renholdelse/strandrensning/vedligeholdelse af strande'"
+      }
+   },
+   "04.11.25":
    {
       "terms":
       {
-         "trafiksikkerhedsrevision":
+         "stormflodssikring":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "06.02.03":
+   "05.01.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vejnavne / husnumre på offentlige veje'. 3.22: 'Vejnavne/husnumre på offentlige veje'"
+      }
+   },
+   "05.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Private fællesveje / stier'. 3.22: 'Private fællesveje/stier'"
+      }
+   },
+   "05.02.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Private fællesveje / stier i almindelighed'. 3.22: 'Private fællesveje/stier i almindelighed'"
+      }
+   },
+   "05.02.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vejudlæg / anlæg - private fællesveje'. 3.22: 'Vejudlæg/anlæg - private fællesveje'"
+      }
+   },
+   "05.02.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Nedlæggelse og omlægning af private fællesveje / stier'. 3.22: 'Nedlæggelse og omlægning af private fællesveje/stier'"
+      }
+   },
+   "05.02.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vejnavne / husnumre på private fællesveje'. 3.22: 'Vejnavne/husnumre på private fællesveje'"
+      }
+   },
+   "05.02.12":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Belysning - private fællesveje / stier'. 3.22: 'Belysning - private fællesveje/stier'"
+      }
+   },
+   "05.02.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Beplantning - private fællesveje / stier'. 3.22: 'Beplantning - private fællesveje/stier'"
+      }
+   },
+   "05.03.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vedligeholdelse / renovering'. 3.22: 'Vedligeholdelse/renovering'"
+      }
+   },
+   "05.04.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Stinumre / stifortegnelse'. 3.22: 'Stinumre/stifortegnelse'"
+      }
+   },
+   "05.04.22":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Nedlæggelse af offentlige / almene stier'. 3.22: 'Nedlæggelse af offentlige/almene stier'"
+      }
+   },
+   "05.05.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vedligeholdelse / renovering, pladser, torve og holdepladser'. 3.22: 'Vedligeholdelse/renovering, pladser, torve og holdepladser'"
+      }
+   },
+   "05.12.20":
+   {
+      "class":"Only in 3.23"
+   },
+   "05.13":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Færdselsregulering / trafiksikkerhed'. 3.22: 'Færdselsregulering/trafiksikkerhed'"
+      }
+   },
+   "05.13.20":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kørselsafgifter / trafikbegrænsning'. 3.22: 'Kørselsafgifter/trafikbegrænsning'"
+      }
+   },
+   "05.14.11":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Skure / skurvogne - genstande på vejareal'. 3.22: 'Skure/skurvogne - genstande på vejareal'"
+      }
+   },
+   "05.14.21":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Tankanlæg - råden over vejareal [udgår 2026]'. 3.22: 'Tankanlæg - råden over vejareal'"
+      }
+   },
+   "06.01.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Nyanlæg / udførelse, ledninger'. 3.22: 'Nyanlæg/udførelse, ledninger'"
+      }
+   },
+   "06.01.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vedligeholdelse / drift, kloakker og ledningsnet'. 3.22: 'Vedligeholdelse/drift, kloakker og ledningsnet'"
+      }
+   },
+   "06.02.10":
    {
       "terms":
       {
-         "minivådområde":
+         "genskabelse af fri kontinuitet i vandløb":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "06.03.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Maskiner / inventar, faste installationer, rensningsanlæg, pumpestationer mv.'. 3.22: 'Maskiner/inventar, faste installationer, rensningsanlæg, pumpestationer mv.'"
+      }
+   },
+   "06.03.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Maskiner / inventar, ikke-faste installationer, rensningsanlæg, pumpestationer mv.'. 3.22: 'Maskiner/inventar, ikke-faste installationer, rensningsanlæg, pumpestationer mv.'"
+      }
+   },
+   "06.03.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Forbedring / fornyelse, rensningsanlæg, pumpestationer mv.'. 3.22: 'Forbedring/fornyelse, rensningsanlæg, pumpestationer mv.'"
+      }
+   },
+   "07.00.05":
+   {
+      "terms":
+      {
+         "affaldsproducent":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
    "07.00.12":
    {
-      "settings":
-      {
-         "title":"3.22: 'Affaldsforebyggelse [udgår 2026]'. 3.21: 'Affaldsforebyggelse'"
-      }
+      "class":"Only in 3.22"
    },
    "07.01":
    {
-      "settings":
-      {
-         "title":"3.22: 'Affalds- og genanvendelsesordninger [udgår 2026]'. 3.21: 'Affalds- og genanvendelsesordninger'"
-      }
+      "class":"Only in 3.22"
    },
    "07.01.00":
    {
-      "settings":
-      {
-         "title":"3.22: 'Affalds- og genanvendelsesordninger i almindelighed [udgår 2026]'. 3.21: 'Affalds- og genanvendelsesordninger i almindelighed'"
-      }
+      "class":"Only in 3.22"
    },
    "07.01.12":
    {
-      "settings":
-      {
-         "title":"3.22: 'Hjemmekompostering [udgår 2026]'. 3.21: 'Hjemmekompostering'"
-      }
+      "class":"Only in 3.22"
    },
-   "07.03":
+   "07.04.01":
    {
       "settings":
       {
-         "title":"3.22: 'Anlæg for deponering af affald mv.'. 3.21: 'Lossepladser mv.'"
+         "title":"3.23: 'Maskiner / inventar, faste installationer, affaldsbehandlingsanlæg'. 3.22: 'Maskiner/inventar, faste installationer, affaldsbehandlingsanlæg'"
       }
    },
-   "07.03.00":
+   "07.04.02":
    {
       "settings":
       {
-         "title":"3.22: 'Anlæg for deponering af affald mv. i almindelighed'. 3.21: 'Lossepladser mv. i almindelighed'"
+         "title":"3.23: 'Maskiner / inventar, ikke-faste installationer, affaldsbehandlingsanlæg'. 3.22: 'Maskiner/inventar, ikke-faste installationer, affaldsbehandlingsanlæg'"
+      }
+   },
+   "07.13.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Indsamlingsordninger / henteordninger for farligt affald'. 3.22: 'Indsamlingsordninger/henteordninger for farligt affald'"
+      }
+   },
+   "07.17.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Emballage, indsamling / transport / behandling mv.'. 3.22: 'Emballage, indsamlings- og anvisningsordninger'"
       },
       "terms":
       {
-         "anlæg for deponering af affald":
+         "dansk producentansvar":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "07.03.03":
+   "08.03.26":
    {
       "settings":
       {
-         "title":"3.22: 'Tekniske installationer, anlæg for deponering af affald'. 3.21: 'Tekniske installationer, lossepladser'"
+         "title":"3.23: 'Hovedreparationer / istandsættelse, havne'. 3.22: 'Hovedreparationer/istandsættelse, havne'"
       }
    },
-   "07.03.10":
+   "08.03.35":
    {
       "settings":
       {
-         "title":"3.22: 'Nyanlæg, anlæg for deponering af affald'. 3.21: 'Nyanlæg, lossepladser'"
+         "title":"3.23: 'Fjernelse / nedlæggelse, havne'. 3.22: 'Fjernelse/nedlæggelse, havne'"
       }
    },
-   "07.03.11":
+   "08.08.05":
    {
       "settings":
       {
-         "title":"3.22: 'Udbygning, anlæg for deponering af affald'. 3.21: 'Udbygning, lossepladser'"
+         "title":"3.23: 'Hovedreparationer / istandsættelse, færgelejer'. 3.22: 'Hovedreparationer/istandsættelse, færgelejer'"
       }
    },
-   "07.13.02":
+   "08.08.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Fjernelse / nedlæggelse, færgelejer'. 3.22: 'Fjernelse/nedlæggelse, færgelejer'"
+      }
+   },
+   "09.04.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Projektbeskrivelse / forhåndsvurdering, støtte til miljøforbedrende investeringer'. 3.22: 'Projektbeskrivelse/forhåndsvurdering, støtte til miljøforbedrende investeringer'"
+      }
+   },
+   "09.05.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Klapning / dumpning af havbundsmateriale'. 3.22: 'Klapning/dumpning af havbundsmateriale'"
+      }
+   },
+   "09.40.10":
    {
       "terms":
       {
-         "farligt erhvervsaffald":
+         "miljøkonsekvensvurdering":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "07.16.03":
+   "13.02.01":
    {
       "terms":
       {
-         "klassificeringsafgørelse":
+         "afsaltning af havvand":
          {
-            "term":"Only in 3.22"
-         },
-         "end of waste":
-         {
-            "term":"Only in 3.22"
-         }
-      }
-   },
-   "13.00.00":
-   {
-      "terms":
-      {
-         "vandforsyningsforhold":
-         {
-            "term":"Only in 3.22"
-         }
-      }
-   },
-   "13.02.03":
-   {
-      "settings":
-      {
-         "title":"3.22: 'Drift af almene vandværker'. 3.21: 'Almene vandværker'"
-      },
-      "terms":
-      {
-         "risikostyring":
-         {
-            "term":"Only in 3.22"
-         },
-         "risikovurdering":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
    "13.02.30":
    {
-      "class":"Only in 3.22"
+      "terms":
+      {
+         "sekundavand":
+         {
+            "term":"Only in 3.23"
+         }
+      }
    },
-   "15.00.05":
+   "13.03.30":
+   {
+      "terms":
+      {
+         "køleplanlægning":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "13.06.05":
    {
       "settings":
       {
-         "title":"3.22: 'Beskæftigelsesindsats, regionale beskæftigelsesråd'. 3.21: 'Beskæftigelsesindsats, regionale arbejdsmarkedsråd'"
+         "title":"3.23: 'Forespørgsler om jordsalg / -køb'. 3.22: 'Forespørgsler om jordsalg/-køb'"
       }
    },
-   "15.20.00":
+   "13.09":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udleje / udlån af materiel'. 3.22: 'Udleje/udlån af materiel'"
+      }
+   },
+   "13.09.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udleje / udlån af materiel i almindelighed'. 3.22: 'Udleje/udlån af materiel i almindelighed'"
+      }
+   },
+   "13.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Fællesantenneanlæg / kabel-tv'. 3.22: 'Fællesantenneanlæg/kabel-tv'"
+      }
+   },
+   "13.10.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Fællesantenneanlæg / kabel-tv i almindelighed'. 3.22: 'Fællesantenneanlæg/kabel-tv i almindelighed'"
+      }
+   },
+   "13.30.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Produktionsenergi / brændsel til decentral kraftvarme'. 3.22: 'Produktionsenergi/brændsel til decentral kraftvarme'"
+      }
+   },
+   "14.00.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Overenskomster / aftaler, redningsberedskab'. 3.22: 'Overenskomster/aftaler, redningsberedskab'"
+      }
+   },
+   "14.01.12":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Stabsgrupper / indsatsledelse'. 3.22: 'Stabsgrupper/indsatsledelse'"
+      }
+   },
+   "14.01.25":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Rådighed over privat ejendom / vandsteder'. 3.22: 'Rådighed over privat ejendom/vandsteder'"
+      }
+   },
+   "14.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Redningsberedskabets materiel / køretøjer til brug for indsats'. 3.22: 'Redningsberedskabets materiel/køretøjer til brug for indsats'"
+      }
+   },
+   "14.05.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Redningsberedskabets materiel / køretøjer til brug for indsats i almindelighed'. 3.22: 'Redningsberedskabets materiel/køretøjer til brug for indsats i almindelighed'"
+      }
+   },
+   "14.05.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udskrevne køretøjer / redskaber, redningsberedskab'. 3.22: 'Udskrevne køretøjer/redskaber, redningsberedskab'"
+      }
+   },
+   "14.05.15":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Mundering / udrustning, redningsberedskab'. 3.22: 'Mundering/udrustning, redningsberedskab'"
+      }
+   },
+   "14.06.01":
    {
       "terms":
       {
-         "ungeløftet":
+         "ministeriet for samfundssikkerhed og beredskab":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "klargøringsvarsel":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
-   "17.02.44":
+   "14.06.02":
+   {
+      "terms":
+      {
+         "klargøringsvarsel":
+         {
+            "term":"Only in 3.23"
+         },
+         "civile beredskabsformål":
+         {
+            "term":"Only in 3.23"
+         },
+         "ministeriet for samfundssikkerhed og beredskab":
+         {
+            "term":"Only in 3.23"
+         },
+         "offentlige beskyttelsesrum":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "14.06.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommandocentraler / kommandostationer'. 3.22: 'Kommandocentraler/kommandostationer'"
+      }
+   },
+   "14.06.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udrykningsstationer / beredskabsstillinger'. 3.22: 'Udrykningsstationer/beredskabsstillinger'"
+      }
+   },
+   "14.07.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Straffesager / disciplinærsager, redningsberedskab'. 3.22: 'Straffesager/disciplinærsager, redningsberedskab'"
+      }
+   },
+   "14.12.16":
+   {
+      "terms":
+      {
+         "brandsynsobjekt":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "14.12.18":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Sikkerhedsvagter / brandvagter'. 3.22: 'Sikkerhedsvagter/brandvagter'"
+      }
+   },
+   "14.14.11":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udlejning af materiel / personel'. 3.22: 'Udlejning af materiel/personel'"
+      }
+   },
+   "15.00.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Organisering af beskæftigelsesindsatsen'. 3.22: 'Jobcenterets opbygning'"
+      },
+      "terms":
+      {
+         "organisering af beskæftigelsesindsatsen":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "15.00.30":
+   {
+      "terms":
+      {
+         "resultatbaseret opfølgning":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "15.17":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Opfølgning og vurdering - beskæftigelsesindsats'. 3.22: 'Opfølgning, vurdering og revalidering'"
+      }
+   },
+   "15.17.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Opfølgning og vurdering - beskæftigelsesindsats i almindelighed'. 3.22: 'Opfølgning, vurdering og revalidering i almindelighed'"
+      }
+   },
+   "15.17.09":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Forrevalidering [udgår 2027]'. 3.22: 'Forrevalidering'"
+      }
+   },
+   "15.17.12":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Revalidering [udgår 2027]'. 3.22: 'Revalidering'"
+      }
+   },
+   "15.17.22":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ressourceforløb [udgår 2029]'. 3.22: 'Ressourceforløb'"
+      }
+   },
+   "15.20.51":
+   {
+      "settings":
+      {
+         "title":"3.23: '225-timersregel [udgår 2026]'. 3.22: '225-timersregel'"
+      }
+   },
+   "15.21.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Jobrotation [udgår 2027]'. 3.22: 'Jobrotation'"
+      }
+   },
+   "15.22.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Fortrinsadgang til ledige stillinger mv. - handicappede'. 3.22: 'Fortrinsadgang'"
+      }
+   },
+   "15.23":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Information og vejledning - beskæftigelsesindsats'. 3.22: 'Information og vejledning i jobcenteret'"
+      }
+   },
+   "15.23.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Information og vejledning - beskæftigelsesindsats i almindelighed'. 3.22: 'Information og vejledning i jobcenteret i almindelighed'"
+      }
+   },
+   "15.23.05":
+   {
+      "terms":
+      {
+         "etablering af \u00e9n virksomhedsindgang":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "15.35":
+   {
+      "class":"Only in 3.23"
+   },
+   "15.35.00":
+   {
+      "class":"Only in 3.23"
+   },
+   "15.35.05":
+   {
+      "class":"Only in 3.23"
+   },
+   "15.35.10":
+   {
+      "class":"Only in 3.23"
+   },
+   "17.00.35":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Undervisningsmiljø / elevers trivsel'. 3.22: 'Undervisningsmiljø/elevers trivsel'"
+      }
+   },
+   "17.01.04":
+   {
+      "terms":
+      {
+         "driftsoverenskomst":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "17.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Skoleårets planlægning / tilrettelæggelse'. 3.22: 'Skoleårets planlægning/tilrettelæggelse'"
+      }
+   },
+   "17.02.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Skoleårets planlægning / tilrettelæggelse i almindelighed'. 3.22: 'Skoleårets planlægning/tilrettelæggelse i almindelighed'"
+      }
+   },
+   "17.02.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ferier / fridage'. 3.22: 'Ferier/fridage'"
+      }
+   },
+   "17.02.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Klassedannelser / elevtal'. 3.22: 'Klassedannelser/elevtal'"
+      }
+   },
+   "17.02.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Undervisningstid / timetal'. 3.22: 'Undervisningstid/timetal'"
+      }
+   },
+   "17.03.08":
+   {
+      "terms":
+      {
+         "musikterapi":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "17.04.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Lejrskoler / ekskursioner'. 3.22: 'Lejrskoler/ekskursioner'"
+      }
+   },
+   "17.04.07":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kulturelle folkeskolearrangementer / fester'. 3.22: 'Kulturelle folkeskolearrangementer/fester'"
+      }
+   },
+   "17.04.13":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udeskole / naturklasse'. 3.22: 'Udeskole/naturklasse'"
+      }
+   },
+   "17.04.18":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Skolebespisning, kantine / skolemælk'. 3.22: 'Skolebespisning, kantine/skolemælk'"
+      }
+   },
+   "17.20.01":
+   {
+      "terms":
+      {
+         "ea001_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "ea 001_eng":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "17.20.15":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udskrivning / opfyldelse af undervisningspligt uden for folkeskolen'. 3.22: 'Udskrivning/opfyldelse af undervisningspligt uden for folkeskolen'"
+      }
+   },
+   "18.09.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ungdomsskolebestyrelsens opgaver (vedtægt / forretningsorden)'. 3.22: 'Ungdomsskolebestyrelsens opgaver (vedtægt/forretningsorden)'"
+      }
+   },
+   "18.12.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Egenbetaling / kontingenter'. 3.22: 'Egenbetaling/kontingenter'"
+      }
+   },
+   "19.00.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Museums- / arkivsamarbejde'. 3.22: 'Museums-/arkivsamarbejde'"
+      }
+   },
+   "19.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Særlige udstillinger og arrangementer uden for museums- / arkivsammenhæng'. 3.22: 'Særlige udstillinger og arrangementer uden for museums-/arkivsammenhæng'"
+      }
+   },
+   "19.01.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Særlige udstillinger og arrangementer uden for museums- / arkivsammenhæng i almindelighed'. 3.22: 'Særlige udstillinger og arrangementer uden for museums-/arkivsammenhæng i almindelighed'"
+      }
+   },
+   "19.02.11":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Omvisninger / besøg på arkiver'. 3.22: 'Omvisninger/besøg på arkiver'"
+      }
+   },
+   "20.01.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Det lokale teater / teaterforeninger'. 3.22: 'Det lokale teater/teaterforeninger'"
+      }
+   },
+   "20.01.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Børneteater / opsøgende teater'. 3.22: 'Børneteater/opsøgende teater'"
+      }
+   },
+   "20.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Biografer / film mv.'. 3.22: 'Biografer/film mv.'"
+      }
+   },
+   "20.02.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Biografer / film mv. i almindelighed'. 3.22: 'Biografer/film mv. i almindelighed'"
+      }
+   },
+   "20.02.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Filmforevisning / -arrangementer'. 3.22: 'Filmforevisning/-arrangementer'"
+      }
+   },
+   "20.03.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Koncerter / musikforeninger'. 3.22: 'Koncerter/musikforeninger'"
+      }
+   },
+   "20.03.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udgivelse / produktion mv. af musik'. 3.22: 'Udgivelse/produktion mv. af musik'"
+      }
+   },
+   "20.05.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Tilskud / sponsorering af programmer'. 3.22: 'Tilskud/sponsorering af programmer'"
+      }
+   },
+   "20.07.15":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Optagelse / venteliste til musikskole'. 3.22: 'Optagelse/venteliste til musikskole'"
+      }
+   },
+   "20.08.02":
    {
       "class":"Only in 3.22"
    },
-   "17.03.00":
+   "20.08.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Optagelse / venteliste til billedskole'. 3.22: 'Optagelse/venteliste til billedskole'"
+      }
+   },
+   "21.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Skolebiblioteker'. 3.22: 'Folkeskolens pædagogiske læringscentre'"
+      }
+   },
+   "21.06.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Skolebiblioteker i almindelighed'. 3.22: 'Folkeskolens pædagogiske læringscentre i almindelighed'"
+      }
+   },
+   "23.05.00":
    {
       "terms":
       {
-         "børneterapeut":
+         "fr130_eng":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "fr 130_eng":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
-   "22.09":
-   {
-      "class":"Only in 3.21"
-   },
-   "22.09.00":
-   {
-      "class":"Only in 3.21"
-   },
-   "23.30.15":
+   "23.05.10":
    {
       "terms":
       {
-         "betroet medarbejder":
+         "fr001_eng":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "fr 001_eng":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
-   "27.60.04":
+   "23.05.12":
    {
+      "settings":
+      {
+         "title":"3.23: 'Flytninger til / fra udlandet'. 3.22: 'Flytninger til/fra udlandet'"
+      },
       "terms":
       {
-         "støttestrømpe":
+         "fr045_eng":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "fr 045_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "fr050_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "fr 050_eng":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
-   "29.24.16":
+   "23.09.04":
    {
       "terms":
       {
-         "stime":
+         "duplikatkørekort":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
+      }
+   },
+   "23.15.25":
+   {
+      "terms":
+      {
+         "fr310_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "fr 310_eng":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "24.15":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommunal eksport / salg'. 3.22: 'Kommunal eksport/salg'"
+      }
+   },
+   "24.15.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Kommunal eksport / salg i almindelighed'. 3.22: 'Kommunal eksport/salg i almindelighed'"
+      }
+   },
+   "25.10.05":
+   {
+      "class":"Only in 3.22"
+   },
+   "25.10.10":
+   {
+      "class":"Only in 3.22"
+   },
+   "25.10.15":
+   {
+      "class":"Only in 3.22"
+   },
+   "25.10.20":
+   {
+      "class":"Only in 3.22"
+   },
+   "25.10.25":
+   {
+      "class":"Only in 3.22"
+   },
+   "25.45.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Gældssanering / konkurs'. 3.22: 'Gældssanering/konkurs'"
+      }
+   },
+   "25.45.47":
+   {
+      "class":"Only in 3.23"
+   },
+   "27.12.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Tilsyn og opfølgning efter servicelovens § 148'. 3.22: 'Tilsyn og opfølgning efter servicelovens § 148 og §§ 150-151c'"
+      }
+   },
+   "27.29.30":
+   {
+      "terms":
+      {
+         "bu305":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu 305":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "27.34.05":
+   {
+      "class":"Only in 3.23"
+   },
+   "27.34.15":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Generelle tilbud med aktiverende og forebyggende sigte - ældreloven'. 3.22: 'Generelle tilbud med aktiverende og forebyggende sigte'"
+      },
+      "terms":
+      {
+         "musikterapi":
+         {
+            "term":"Only in 3.23"
+         },
+         "netværksskabende aktiviteter":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "27.35.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Forebyggende hjemmebesøg [udgår 2026]'. 3.22: 'Forebyggende hjemmebesøg'"
+      }
+   },
+   "27.35.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Generelle tilbud med aktiverende og forebyggende sigte - serviceloven'. 3.22: 'Generelle tilbud med aktiverende og forebyggende sigte'"
+      }
+   },
+   "27.36.08":
+   {
+      "terms":
+      {
+         "vs701":
+         {
+            "term":"Only in 3.23"
+         },
+         "vs 701":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "27.42.00":
+   {
+      "terms":
+      {
+         "Ældretilsyn":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "27.45.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Anvisning til ældrebolig / handicapbolig (visitation)'. 3.22: 'Anvisning til ældrebolig/handicapbolig (visitation)'"
+      }
+   },
+   "27.45.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Venteliste til ældrebolig / handicapbolig'. 3.22: 'Venteliste til ældrebolig/handicapbolig'"
+      }
+   },
+   "27.51.04":
+   {
+      "terms":
+      {
+         "stofmisbrugsbehandlingstilbud":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "27.57.16":
+   {
+      "terms":
+      {
+         "natvarmestue":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "27.60.14":
+   {
+      "terms":
+      {
+         "tryghedsskabende velfærdsteknologi":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "28":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dag-, fritids- og klubtilbud'. 3.22: 'Dagtilbud'"
+      }
+   },
+   "28.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dag-, fritids- og klubtilbud'. 3.22: 'Dagtilbud'"
+      }
+   },
+   "28.00.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dag-, fritids- og klubtilbud i almindelighed'. 3.22: 'Dagtilbud i almindelighed'"
+      }
+   },
+   "28.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Drift af dag-, fritids- og klubtilbud'. 3.22: 'Etablering af dag-, fritids- og klubtilbud'"
+      }
+   },
+   "28.03.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Drift af dag-, fritids- og klubtilbud i almindelighed'. 3.22: 'Etablering af dag-, fritids- og klubtilbud i almindelighed'"
+      }
+   },
+   "28.03.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dagtilbud, organisering, driftsaftaler og godkendelser'. 3.22: 'Dagtilbud, etablering, driftsaftaler og godkendelser'"
+      }
+   },
+   "28.03.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Fritidshjem, organisering og driftsaftaler'. 3.22: 'Fritidshjem, etablering og driftsaftaler'"
+      }
+   },
+   "28.03.12":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Klubtilbud til større børn og unge, organisering og driftsaftaler'. 3.22: 'Klubtilbud til større børn og unge, etablering, struktur- og driftsaftaler'"
+      }
+   },
+   "28.03.24":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Åbne pædagogiske tilbud, organisering'. 3.22: 'Åbne pædagogiske tilbud, etablering'"
+      }
+   },
+   "28.06.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Børnenormering / -tal'. 3.22: 'Børnenormering/-tal'"
+      }
+   },
+   "28.09.24":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Forældrekontakt / -samarbejde, dagtilbud'. 3.22: 'Forældrekontakt/-samarbejde, dagtilbud'"
+      }
+   },
+   "28.09.28":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Aktiviteter / arrangementer, dagtilbud'. 3.22: 'Aktiviteter/arrangementer, dagtilbud'"
+      }
+   },
+   "28.09.40":
+   {
+      "terms":
+      {
+         "dt201_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt 201_eng":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "28.12.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Forældrekontakt / -samarbejde, fritidshjem'. 3.22: 'Forældrekontakt/-samarbejde, fritidshjem'"
+      }
+   },
+   "28.12.20":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Aktiviteter / arrangementer, fritidshjem'. 3.22: 'Aktiviteter/arrangementer, fritidshjem'"
+      }
+   },
+   "28.15.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Forældrekontakt / -samarbejde, klubtilbud'. 3.22: 'Forældrekontakt/-samarbejde, klubtilbud'"
+      }
+   },
+   "28.15.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Aktiviteter / arrangementer, klubtilbud'. 3.22: 'Aktiviteter/arrangementer, klubtilbud'"
+      }
+   },
+   "28.77.04":
+   {
+      "terms":
+      {
+         "dt236_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt 236_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt237_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt 237_eng":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "28.77.08":
+   {
+      "terms":
+      {
+         "dt231_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt 231_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt235_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "dt 235_eng":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "29.06.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Aktivitetsbestemt medfinansiering af sundhedsvæsenet [udgår 2027]'. 3.22: 'Aktivitetsbestemt medfinansiering af sundhedsvæsenet'"
+      }
+   },
+   "29.06.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Medfinansiering af sygehusbehandling, ambulant og under indlæggelse [udgår 2027]'. 3.22: 'Medfinansiering af sygehusbehandling, ambulant og under indlæggelse'"
+      }
+   },
+   "29.06.10":
+   {
+      "class":"Only in 3.23"
+   },
+   "29.30.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Sundhedsklyngesamarbejde [udgår 2027]'. 3.22: 'Sundhedsklyngesamarbejde'"
+      }
+   },
+   "29.30.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Sundhedssamarbejde [udgår 2027]'. 3.22: 'Sundhedssamarbejde'"
+      }
+   },
+   "29.30.05":
+   {
+      "class":"Only in 3.23"
+   },
+   "29.30.07":
+   {
+      "class":"Only in 3.23"
+   },
+   "29.30.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Sundhedsaftaler - samarbejde på sundhedsområdet [udgår 2027]'. 3.22: 'Sundhedsaftaler - samarbejde på sundhedsområdet'"
       }
    },
    "32.00.24":
    {
+      "class":"Only in 3.22"
+   },
+   "32.03.56":
+   {
       "settings":
       {
-         "title":"3.22: 'Feriepenge [udgår 2026]'. 3.21: 'Feriepenge'"
+         "title":"3.23: 'Dækning af udgifter til husleje mv. ved fængsling / anbringelsesdom'. 3.22: 'Dækning af udgifter til husleje ved fængsling'"
       }
    },
-   "32.03.12":
+   "32.06.16":
    {
       "terms":
       {
-         "sp242":
+         "bs181_eng":
          {
-            "term":"Only in 3.21"
+            "term":"Only in 3.23"
          },
-         "sp 242":
+         "bs 181_eng":
          {
-            "term":"Only in 3.21"
+            "term":"Only in 3.23"
+         },
+         "bs345_eng":
+         {
+            "term":"Only in 3.23"
+         },
+         "bs 345_eng":
+         {
+            "term":"Only in 3.23"
          }
       }
-   },
-   "32.03.13":
-   {
-      "class":"Only in 3.22"
-   },
-   "32.03.48":
-   {
-      "class":"Only in 3.22"
-   },
-   "32.03.50":
-   {
-      "settings":
-      {
-         "title":"3.22: 'Tidlig pension, udbetaling'. 3.21: 'Tidlig pension'"
-      },
-      "terms":
-      {
-         "tidlig pension":
-         {
-            "settings":
-            {
-               "requiredOr":"3.22: '1'. 3.21: '0'"
-            }
-         },
-         "udbetaling":
-         {
-            "term":"Only in 3.22"
-         }
-      }
-   },
-   "32.18":
-   {
-      "settings":
-      {
-         "title":"3.22: 'Ydelser efter serviceloven, ældrelov, m.fl.'. 3.21: 'Ydelser efter serviceloven'"
-      }
-   },
-   "32.18.00":
-   {
-      "settings":
-      {
-         "title":"3.22: 'Ydelser efter serviceloven, ældrelov, m.fl. i almindelighed'. 3.21: 'Ydelser efter serviceloven i almindelighed'"
-      }
-   },
-   "32.18.04":
-   {
-      "class":"Only in 3.21"
    },
    "32.18.08":
    {
+      "terms":
+      {
+         "my340a":
+         {
+            "term":"Only in 3.23"
+         },
+         "my 340a":
+         {
+            "term":"Only in 3.23"
+         },
+         "my340b":
+         {
+            "term":"Only in 3.23"
+         },
+         "my 340b":
+         {
+            "term":"Only in 3.23"
+         },
+         "my345a":
+         {
+            "term":"Only in 3.23"
+         },
+         "my 345a":
+         {
+            "term":"Only in 3.23"
+         },
+         "my345c":
+         {
+            "term":"Only in 3.23"
+         },
+         "my 345c":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "32.24.03":
+   {
       "settings":
       {
-         "title":"3.22: 'Merudgiftsydelse og kompensationsydelse til voksne'. 3.21: 'Merudgifter for voksne med nedsat funktionsevne'"
-      },
-      "terms":
-      {
-         "kompensationsydelse":
-         {
-            "term":"Only in 3.22"
-         }
+         "title":"3.23: 'Kontanthjælpsloft [udgår 2026]'. 3.22: 'Kontanthjælpsloft'"
       }
    },
-   "32.18.12":
+   "32.24.08":
    {
-      "class":"Only in 3.21"
-   },
-   "32.21.12":
-   {
-      "terms":
+      "settings":
       {
-         "ko536":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko 536":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko536k":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko 536k":
-         {
-            "term":"Only in 3.22"
-         }
+         "title":"3.23: 'Revalideringsydelse [udgår 2029]'. 3.22: 'Revalideringsydelse'"
       }
    },
-   "32.24.00":
+   "32.24.10":
    {
-      "terms":
+      "settings":
       {
-         "ko534":
-         {
-            "term":"Only in 3.21"
-         },
-         "ko 534":
-         {
-            "term":"Only in 3.21"
-         },
-         "ko536":
-         {
-            "term":"Only in 3.21"
-         },
-         "ko 536":
-         {
-            "term":"Only in 3.21"
-         }
+         "title":"3.23: 'Kontanthjælp under forrevalidering [udgår 2027]'. 3.22: 'Kontanthjælp under forrevalidering'"
       }
    },
-   "32.24.04":
+   "32.24.28":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ressourceforløbsydelse, ressourceforløb [udgår 2029]'. 3.22: 'Ressourceforløbsydelse, ressourceforløb'"
+      }
+   },
+   "32.24.30":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ressourceforløbsydelse, jobafklaringsforløb [udgår 2028]'. 3.22: 'Ressourceforløbsydelse, jobafklaringsforløb'"
+      }
+   },
+   "32.24.44":
+   {
+      "class":"Only in 3.22"
+   },
+   "32.24.45":
+   {
+      "class":"Only in 3.22"
+   },
+   "32.27.03":
+   {
+      "class":"Only in 3.23"
+   },
+   "32.27.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Fleksydelse, udbetaling'. 3.22: 'Fleksydelse'"
+      }
+   },
+   "32.45.04":
    {
       "terms":
       {
-         "ko532":
+         "velfærdskriminalitet":
          {
-            "term":"Only in 3.22"
-         },
-         "ko 532":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko532k":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko 532k":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko534":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko 534":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko534k":
-         {
-            "term":"Only in 3.22"
-         },
-         "ko 534k":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
+   },
+   "32.70":
+   {
+      "class":"Only in 3.23"
+   },
+   "32.70.00":
+   {
+      "class":"Only in 3.23"
+   },
+   "32.70.05":
+   {
+      "class":"Only in 3.23"
+   },
+   "32.70.10":
+   {
+      "class":"Only in 3.23"
+   },
+   "34.15.25":
+   {
+      "terms":
+      {
+         "fritidspas":
+         {
+            "term":"Only in 3.23"
+         },
+         "barnets lov § 156":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "34.30":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Anbringelsessteder'. 3.22: 'Anbringelsessteder, godkendelse, opfølgning og tilsyn'"
+      }
+   },
+   "34.30.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Anbringelsessteder i almindelighed'. 3.22: 'Anbringelsessteder, godkendelse, opfølgning og tilsyn i almindelighed'"
+      }
+   },
+   "34.30.15":
+   {
+      "class":"Only in 3.23"
    },
    "34.45.30":
    {
+      "terms":
+      {
+         "bu900a":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu 900a":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu900b":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu 900b":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu902a":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu 902a":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu902b":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu 902b":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu907":
+         {
+            "term":"Only in 3.23"
+         },
+         "bu 907":
+         {
+            "term":"Only in 3.23"
+         }
+      }
+   },
+   "54.34":
+   {
       "settings":
       {
-         "title":"3.22: 'Merudgiftsydelse og kompensationsydelse til børn og unge'. 3.21: 'Hjælp til dækning af nødvendige merudgifter'"
+         "title":"3.23: 'Aktiviteter / arrangementer, gymnasier'. 3.22: 'Aktiviteter/arrangementer, gymnasier'"
+      }
+   },
+   "54.34.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Aktiviteter / arrangementer, gymnasiet i almindelighed'. 3.22: 'Aktiviteter/arrangementer, gymnasiet i almindelighed'"
+      }
+   },
+   "54.34.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dimission / translokation'. 3.22: 'Dimission/translokation'"
+      }
+   },
+   "81.13.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Transport / befordring'. 3.22: 'Transport/befordring'"
+      }
+   },
+   "81.13.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Time- / dagpenge'. 3.22: 'Time-/dagpenge'"
+      }
+   },
+   "81.15.15":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Puljeordninger / lokalløn / decentral løn'. 3.22: 'Puljeordninger/lokalløn/decentral løn'"
+      }
+   },
+   "81.16.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Personaleforeninger / -klubber'. 3.22: 'Personaleforeninger/-klubber'"
+      }
+   },
+   "81.29":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Arbejdsskader / tilskadekomst, personale'. 3.22: 'Arbejdsskader/tilskadekomst'"
+      }
+   },
+   "81.29.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Arbejdsskader / tilskadekomst, personale i almindelighed'. 3.22: 'Arbejdsskader/tilskadekomst i almindelighed'"
+      }
+   },
+   "81.29.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Arbejdsulykker / arbejdsskader vedr. personale'. 3.22: 'Arbejdsulykker/arbejdsskader'"
+      }
+   },
+   "81.29.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ulykkestilfælde / løfteskader / skadelige påvirkninger før 2004'. 3.22: 'Pludselige løfteskader'"
+      }
+   },
+   "81.29.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Erhvervssygdomme, personale'. 3.22: 'Erhvervssygdomme'"
+      }
+   },
+   "81.29.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Nærved-ulykker, personale'. 3.22: 'Nærved-ulykker'"
+      }
+   },
+   "81.30.03":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Barselsorlov / adoptionsorlov'. 3.22: 'Barselsorlov/adoptionsorlov'"
+      }
+   },
+   "81.30.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Værnepligtsorlov / FN-tjeneste'. 3.22: 'Værnepligtsorlov/FN-tjeneste'"
+      }
+   },
+   "81.37":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Retræte- / seniorordninger'. 3.22: 'Retræte-/seniorordninger'"
+      }
+   },
+   "81.37.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Retræte- / seniorordninger i almindelighed'. 3.22: 'Retræte-/seniorordninger i almindelighed'"
+      }
+   },
+   "81.38":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Samarbejds- / MED-udvalg, tillidsrepræsentanter'. 3.22: 'Samarbejds-/MED-udvalg, tillidsrepræsentanter'"
+      }
+   },
+   "81.38.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Samarbejds- / MED-udvalg, tillidsrepræsentanter i almindelighed'. 3.22: 'Samarbejds-/MED-udvalg, tillidsrepræsentanter i almindelighed'"
+      }
+   },
+   "81.38.06":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Samarbejds- / MED-udvalgets underudvalg'. 3.22: 'Samarbejds-/MED-udvalgets underudvalg'"
+      }
+   },
+   "82.00.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Bygnings- / lokaletegninger, kommunens ejendomme'. 3.22: 'Bygnings-/lokaletegninger, kommunens ejendomme'"
+      }
+   },
+   "82.06.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Byggeprogram / anlægsprogram, nybyggeri'. 3.22: 'Byggeprogram/anlægsprogram, nybyggeri'"
+      }
+   },
+   "82.06.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dispositionsforslag / projektforslag, nybyggeri'. 3.22: 'Dispositionsforslag/projektforslag, nybyggeri'"
+      }
+   },
+   "82.16":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udlån / udleje af lokaler og ejendomme'. 3.22: 'Udlån/udleje af lokaler og ejendomme'"
+      }
+   },
+   "82.16.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Udlån / udleje af lokaler og ejendomme i almindelighed'. 3.22: 'Udlån/udleje af lokaler og ejendomme i almindelighed'"
+      }
+   },
+   "82.18":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Renovering / sanering, kommunens ejendomme'. 3.22: 'Renovering/sanering, kommunens ejendomme'"
+      }
+   },
+   "82.18.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Renovering / sanering, kommunens ejendomme i almindelighed'. 3.22: 'Renovering/sanering, kommunens ejendomme i almindelighed'"
+      }
+   },
+   "82.20.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dispositionsforslag / projektforslag, til- og ombygning'. 3.22: 'Dispositionsforslag/projektforslag, til- og ombygning'"
+      }
+   },
+   "82.25":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Flytninger / lokalefordeling, kommunens ejendomme'. 3.22: 'Flytninger/lokalefordeling, kommunens ejendomme'"
+      }
+   },
+   "82.25.00":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Flytninger / lokalefordeling, kommunens ejendomme i almindelighed'. 3.22: 'Flytninger/lokalefordeling, kommunens ejendomme i almindelighed'"
+      }
+   },
+   "83.01.04":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Institutionsinventar / udstyr'. 3.22: 'Institutionsinventar/udstyr'"
+      }
+   },
+   "83.11.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Anskaffelse / overtagelse af køretøjer'. 3.22: 'Anskaffelse/overtagelse af køretøjer'"
+      }
+   },
+   "83.11.05":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Vedligeholdelse / renovering af køretøjer'. 3.22: 'Vedligeholdelse/renovering af køretøjer'"
+      }
+   },
+   "83.15.08":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Ejendomshandlere / mæglere'. 3.22: 'Ejendomshandlere/mæglere'"
+      }
+   },
+   "83.15.09":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Alarmabonnement / vagtselskaber / redningskorps'. 3.22: 'Alarmabonnement/vagtselskaber/redningskorps'"
+      }
+   },
+   "83.15.12":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Penge- / finansrådgivning'. 3.22: 'Penge-/finansrådgivning'"
+      }
+   },
+   "84.03.10":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Valgklage / fritagelse for valg'. 3.22: 'Valgklage/fritagelse for valg'"
+      }
+   },
+   "84.05.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Valglister / valgkort til menighedsrådsvalg'. 3.22: 'Valglister/valgkort til menighedsrådsvalg'"
+      }
+   },
+   "85.02.01":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Informationshåndtering / journalisering'. 3.22: 'Informationshåndtering/journalisering'"
+      }
+   },
+   "85.02.02":
+   {
+      "settings":
+      {
+         "title":"3.23: 'Dagsordensopbygning'. 3.22: 'Dagsordener'"
       },
       "terms":
       {
-         "bu903":
+         "dagsordensmodul":
          {
-            "term":"Only in 3.22"
-         },
-         "bu 903":
-         {
-            "term":"Only in 3.22"
-         },
-         "kompensationsydelse":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "54.15.28":
+   "85.08.25":
    {
+      "settings":
+      {
+         "title":"3.23: 'Sletning af personoplysninger / opbevaringsbegrænsning'. 3.22: 'Sletning af personoplysninger / dataminimering'"
+      },
       "terms":
       {
-         "in902":
+         "opbevaringsbegrænsning":
          {
-            "term":"Only in 3.22"
-         },
-         "in 902":
-         {
-            "term":"Only in 3.22"
-         },
-         "in961":
-         {
-            "term":"Only in 3.22"
-         },
-         "in 961":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "81.15.25":
-   {
-      "class":"Only in 3.22"
-   },
-   "82.40":
-   {
-      "class":"Only in 3.22"
-   },
-   "82.40.00":
-   {
-      "class":"Only in 3.22"
-   },
-   "82.40.05":
-   {
-      "class":"Only in 3.22"
-   },
-   "82.40.10":
-   {
-      "class":"Only in 3.22"
-   },
-   "85.11.00":
+   "85.11.04":
    {
       "terms":
       {
-         "testmiljø":
+         "navigationssedler":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
@@ -569,63 +2189,56 @@
    {
       "terms":
       {
-         "licensprofilering":
+         "ai agent":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "digitale agenter":
+         {
+            "term":"Only in 3.23"
          }
       }
    },
-   "85.15.02":
+   "85.15.07":
    {
       "settings":
       {
-         "title":"3.22: 'IT-og cybersikkerhed og sikkerhedsforanstaltninger'. 3.21: 'IT-sikkerhed og sikkerhedsforanstaltninger'"
+         "title":"3.23: 'Elektroniske / digitale signaturer'. 3.22: 'Elektroniske/digitale signaturer'"
       },
       "terms":
       {
-         "forsyningskædesikkerhed":
+         "mitid erhverv":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          },
-         "nis2":
+         "nsis-anmeldte broker":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          },
-         "cyberhygiejne":
+         "security token service":
          {
-            "term":"Only in 3.22"
-         },
-         "it-sikkerhedshændelse":
-         {
-            "term":"Only in 3.22"
-         },
-         "hændelsesunderretning":
-         {
-            "term":"Only in 3.22"
-         },
-         "sikkerhedsaudit":
-         {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
          }
       }
    },
-   "85.15.03":
+   "85.15.08":
    {
-      "terms":
+      "settings":
       {
-         "multifaktorautentificering":
-         {
-            "term":"Only in 3.22"
-         }
+         "title":"3.23: 'Elektronisk fakturering / EAN lokationsnumre'. 3.22: 'Elektronisk fakturering/EAN lokationsnumre'"
       }
    },
-   "85.15.04":
+   "85.15.25":
    {
       "terms":
       {
-         "stresstest":
+         "logopbevaring":
          {
-            "term":"Only in 3.22"
+            "term":"Only in 3.23"
+         },
+         "siem platform":
+         {
+            "term":"Only in 3.23"
          }
       }
    }
