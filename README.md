@@ -2,7 +2,7 @@
 
 OS2KLE is developed by Taxon ApS (https://taxon.dk) for OS2 - Offentligt digitaliseringsfællesskab (https://os2.eu).
 
-Copyright (c) 2013-2025, OS2 - Offentligt digitaliseringsfællesskab.
+Copyright (c) 2013-2026, OS2 - Offentligt digitaliseringsfællesskab.
 
 OS2KLE is a free and open dataset; you may use, study, modify and distribute it under the terms of version 2.0 of the Mozilla Public License. See the LICENSE file for details. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
@@ -39,7 +39,7 @@ Indeholder selve OS2KLE i JSON format.
 
 ### OS2KLE.txt
 
-Indeholder en forsimplet OS2KLE i TXT format.
+Indeholder en forsimplet OS2KLE i TXT format. Bruges sammen en chatbot eller RAG. Download OS2KLE.txt og upload den til din chatbot.
 
 ### change.json
 
@@ -50,6 +50,7 @@ Indeholder en oversigt over ændringerne i forhold til forrige version. Filen er
 Er en stand-alone HTML-side, som kan vise change.json på en pæn og letlæselig måde i en browser.
 
 change.json skal ligge i samme folder som view_changes.html.
+
 
 
 
